@@ -1,0 +1,19 @@
+{
+   --------------------------------------------------------------------------------------
+                           GUIA INTERNA
+                           TRASPASO  A OTROS LOCALES
+                           NUMERO:[TIPO,1,2,][NUMERO,1,11,]
+                           FECHA :[FECHA,1,10,]
+
+
+   ALMACEN INICIAL :[BODEGA>NOMBRE,1,10,] 
+   ALMACEN FINAL   :[BODEGA1>NOMBRE,1,10,]  
+   PROD   CANT.  UND DESCRIPCION
+   --------------------------------------------------------------------------------------
+}
+/   [PRODUCTO,1,4,] [CANTIDAD,1,7,]  [UNIDAD,1,3,] [DESCRIPCIO,1,60,] \
+
+
+
+
+

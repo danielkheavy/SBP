@@ -1,0 +1,134 @@
+
+      CUADRE PARCIAL NRO: 26-7
+            HORA 12:12:18
+-----------------------------------
+CAJERO.% CAJA.% TNO.%
+FECHAI.23/07/2018 FECHAF.23/07/2018
+-----------------------------------
+
+          RANGO DE TICKET
+===================================
+BOLETA ELECTRO:  27      al  32    
+FACTURA ELECTR:  23      al  33    
+Nota de Venta :                    
+Boleta Manual :                    
+Factura Manual:                    
+NotaCredBoleta:                    
+NotaCredFactur:                    
+
+     VENTAS POR USUARIO/TURNO
+===================================
+T/CAMBIO :3.000
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/               
+01 1 YOEL   14       4242.38        
+
+        VENTAS POR SERVICIO
+===================================
+Servc  Nro    S/       Dolares 
+Rapid      14  4242.38     0.00
+
+       DOCUMENTOS VALORADOS
+===================================
+Tipo   Nro    S/       Dolares 
+BOLETA      5   583.98     0.00
+ANULAD      1     9.00     0.00
+FACTUR      9  3658.40     0.00
+ANULAD      2   215.61     0.00
+Total  Ventas  4242.38     0.00
+
+          RESUMEN DE VENTAS
+===================================
+Valor Bruto    4242.38     0.00
+Descuentos        0.00     0.00
+Valor Venta    3595.23     0.00
+IGV             647.15     0.00
+Percepcion
+Servicio 10%      0.00     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo          0.00     0.00
+Total Ventas   4242.38     0.00
+
+          OTROS DOCUMENTOS
+===================================
+Tipo   Nro    S/       Dolares 
+Total  Otros      0.00     0.00
+NETO VENTAS    4242.38     0.00
+
+         ORDEN DE TRABAJO
+===================================
+Nro              Total  Acuenta 
+12               488.1        0
+13                  49        0
+14                 8.5        0
+48              206.61  -206.61
+49             1368.55        0
+50              399.15        0
+51                53.5        0
+53              157.52        0
+54             1038.55        0
+55               339.5        0
+56                   9       -9
+57               37.38        0
+58                   1        0
+59              2180.2        0
+60               63.18        0
+61              1571.5        0
+62                 541        0
+63               321.1        0
+64                26.5        0
+TotalOrden     8859.84  -215.61
+
+         INGRESOS/EGRESOS
+===================================
+Servc  Nro    S/       Dolares 
+===================================
+TOT.EFE.CAJA    4242.38     0.00
+===================================
+
+          FORMAS DE PAGO
+===================================
+Fpago  Nro    S/       Dolares 
+-----------------------------------
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/       Dolares 
+EFECTIVO      8   958.98     0.00
+DEP SOLE      4  1100.00     0.00
+CREDITO       2  1730.75     0.00
+VISA          2   452.65     0.00
+ORDEN TR     18    -9.00     0.00
+Total  Fpago   4233.38     0.00
+-----------------------------------
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+-----------------------------------
+FORMA DE PAGO/SALDO FINAL
+EFECTIVO          958.98     0.00
+DEP SOLE         1100.00     0.00
+CREDITO          1730.75     0.00
+VISA              452.65     0.00
+ORDEN TR           -9.00     0.00
+Subtotal       4233.38     0.00
+-----------------------------------
+Total          4233.38     0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

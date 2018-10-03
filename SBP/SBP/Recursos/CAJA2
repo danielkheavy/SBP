@@ -1,0 +1,76 @@
+
+     CIERRE DEL DIA NRO: 000472
+            HORA 18:14:06
+-----------------------------------
+CAJERO.% CAJA.01 TNO.%
+FECHAI.12/04/2017 FECHAF.12/04/2017
+-----------------------------------
+TB-I:1773        TB-F:1775       
+TF-I:1           TF-F:1          
+NCTI:            NCTF:           
+BM-I:            BM-F:           
+FM-I:            FM-F:           
+NC-I:            NC-F:           
+T/CAMBIO :2.700
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/               
+01 1 ERIC    4         90.00        
+SERVICIOS
+Servc  Nro    S/       Dolares 
+Rapid       2    60.00     0.00
+SA:01       2    30.00     0.00
+DOCUMENTOS VALORADOS
+Tipo   Nro    S/       Dolares 
+TICK B      3    60.00     0.00
+TICK F      1    30.00     0.00
+Total  Ventas    90.00     0.00
+RESUMEN DE VENTAS
+Valor Bruto      90.00     0.00
+Descuentos        0.00     0.00
+Valor Venta      76.26     0.00
+IGV              13.74     0.00
+Percepcion
+Servicio 10%      5.08     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo          0.00     0.00
+Total Ventas     90.00     0.00
+OTROS DOCUMENTOS 
+Tipo   Nro    S/       Dolares 
+Total  Otros      0.00     0.00
+NETO VENTAS      90.00     0.00
+ORDEN TRABAJO 
+Nro              Total  Acuenta 
+TotalOrden        0.00     0.00
+INGRESOS/EGRESOS
+Servc  Nro    S/       Dolares 
+-----------------------------------
+TOT.EFE.CAJA      90.00    33.33
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro    S/       Dolares 
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/       Dolares 
+EFECTI      4    90.00     0.00
+Total  Fpago     90.00     0.00
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+FORMA DE PAGO/SALDOS
+EFECTI           90.00     0.00
+Subtotal         90.00     0.00
+-----------------------------------
+Total            90.00    33.33
+
+
+
+
+
+
+
+
+
+

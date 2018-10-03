@@ -1,0 +1,30 @@
+{
+
+
+
+
+
+
+                                                   [TIPO,1,2,][NUMERO,1,11,]
+                   
+
+           
+           [FECHA,1,10,]
+           [NOMBRE,1,60,]
+           [CLIENTES>DIRECCION,1,40,]  [CLIENTES>DISTRITO,1,10,] [CLIENTES>DPTO,1,10,]
+           [CODIGO,1,11,]
+
+
+
+           [FPAGO>DESCRIPCIO,1,10,]           [VENDEDOR,1,5,]        [SERIE,1,3,][NUMERO1,1,11,]           [PONEMONEDA] 
+
+
+
+}
+/ [PRODUCTO,1,4,] [CANTIDAD,1,7,] [UNIDAD,1,3,] [DESCRIPCIO,1,50,] [PRECIO,1,8,4,]        [TOTAL,1,8,]\
+$       [@TOTAL,1,90,]	
+
+
+[SUBTOTAL,1,11,]                                   [SUBTOTAL,1,11,]   [IMPUESTO,1,11,]        [TOTAL,1,11,]?
+
+

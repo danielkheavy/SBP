@@ -1,0 +1,9 @@
+Type=App|1.0.34|2005-10-03 17:10:47
+Type=Master|9845504|1|9,999496|5,00063
+Type=Text|Example THREE|16777215|-2147483633|0|Arial|24|True|False|False|False|0,3122087|0,306917
+Type=Text|___________________________________________|15702691|-2147483633|0|Arial|10,8|False|False|False|False|0,3122087|1,222376
+Type=Text|<your company name>|16777215|-2147483633|0|Arial|10,8|False|True|False|False|5,439839|2,021419
+Type=Text|<address and number>|16777215|-2147483633|0|Arial|10,8|False|True|False|False|5,439839|2,524127
+Type=Text|<zipcode and city>|16777215|-2147483633|0|Arial|10,8|False|True|False|False|6,244173|3,026836
+Type=Text|<e-mail address>|16777215|-2147483633|0|Arial|10,8|False|True|False|False|6,445256|3,534837
+Type=Text|<website address>|16777215|-2147483633|0|Arial|10,8|False|True|False|False|6,244173|4,032254

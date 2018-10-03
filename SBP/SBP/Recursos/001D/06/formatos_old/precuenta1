@@ -1,0 +1,7 @@
+{   NRO ORDEN [NUMERO,1,10,]
+FECHA   :[FECHA,1,10,] HORA:[HORA,1,10,]
+SALON   :[SALON,1,2,]  MESA:[MESA,1,2,]
+MOZO    :[VENDEDOR,1,10,]
+-----------------------------------------
+CANT DESCRIPCION           P.U.   TOTAL}
+/ [CANTIDAD,1,2,]  [DESCRIPCIO,1,18,0,] [PRECIO,1,7,] [TOTAL,1,7,]\

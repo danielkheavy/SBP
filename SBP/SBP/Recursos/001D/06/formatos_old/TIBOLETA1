@@ -1,0 +1,20 @@
+{              CAFE EUROPA
+        UNLIMITED COMPANY S.A.C.
+CAL. ALONSO DE MOLINA MZB LOTE 22 SURCO
+           AV. MENDIOLA 1400 
+      INDEPENDENCIA - LIMA - LIMA
+     RUC:2255416122  SN:FFBF021961
+---------------------------------------
+BOLETA NRO:[SERIE,1,3,]-[NUMERO,1,8,] CAJERO:[USUARIO,1,6,] 
+CAJA:[CAJA,1,2,] TURNO:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+NOMBRE:[NOMBRE,1,25,]
+       [ESTADO,1,15,]
+CANT DESCRIPCION            P.U.  TOTAL
+---------------------------------------}     
+/[CANTIDAD,1,4,] [PRODUCTO>DESCORTO,1,22,] [PRECIO,1,4,] [TOTAL,1,6,]\
+$---------------------------------------
+TOTAL VENTA     [PONEMONEDA]         : [TOTAL,1,8,]?
+<PAGO CON [DESCRIPCIO,1,10,]          : [RECIBE,1,8,]
+VUELTO          [PONEMONEDA]         : [SALDOS,1,8,]>
+^---------------------------------------
+       GRACIAS POR SU PREFERENCIA

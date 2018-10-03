@@ -1,0 +1,33 @@
+{  RESTAURANT CAFETERIA DELPINO      
+  De: NELLY GOICOCHEA DE DELPINO    
+    PANAMERICANA NORTE Km 77.5
+ RUC:10159861371- CHANCAY - LIMA  
+          TELF:377-1211
+--------------------------------------
+TICKET NRO :[NUMERO]
+SERIE MAQ.REGISTRADORA No.USAFIKA13030191
+[USUARIO] [CAJA] TN:[TURNO] [FECHA] [HORA]
+RUC   :[RUC,1,11,]
+NOMBRE:[NOMBREB,1,30,]
+       [ESTADO,1,15,]
+--------------------------------------
+CANT  UNI     DESCRIPCION       TOTAL}
+/[CANTIDAD,1,5,][UNIDAD]x[DESCRIPCIO,1,18,] [TOTAL,1,8,]\
+$     SUBTOTAL               :[SUBTOTAL,1,8,]
+      IMPUESTO               :[IMPUESTO,1,8,]
+      TOTAL VENTA            :[TOTAL,1,8,]?
+
+<     [NOMBREFP,1,15,]         [VALORPAGAD]
+     VUELTO                [VUELTOS,1,8,]>
+     
+^     
+     GRACIAS POR SU VISITA......!
+        
+
+
+
+
+
+
+
+

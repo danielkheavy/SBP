@@ -1,0 +1,13 @@
+{   NRO ORDEN [NUMERO,1,10,]
+FECHA   :[FECHA,1,10,] HORA:[HORA,1,10,]
+SALON   :[SALON,1,2,]  MESA:[MESA,1,2,]
+MOZO    :[VENDEDOR,1,10,]
+CLIENTE :[FACTURA>NOMBRE,1,10,]
+
+-----------------------------------------
+CANT DESCRIPCION           }
+/ [CANTIDAD,1,2,]  [DESCRIPCIO,1,18,0,]
+[COMENTARIO] 
+[COMBO]\
+
+

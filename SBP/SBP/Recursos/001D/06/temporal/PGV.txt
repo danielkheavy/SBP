@@ -1,0 +1,74 @@
+      CUADRE PARCIAL NRO: 15-3
+            HORA 10:28:57
+-----------------------------------
+CAJERO.PGV CAJA.02 TNO.1           
+FECHAI.15/03/2011 FECHAF.15/03/2011
+-----------------------------------
+TB-I:102707      TB-F:102707      
+TF-I:78241       TF-F:78242       
+NCTI:            NCTF:            
+BM-I:            BM-F:            
+FM-I:            FM-F:            
+NC-I:            NC-F:            
+T/CAMBIO :2.800
+SERVICIOS
+Servc  Nro             Dolares  
+Rapid       3    19.40     0.00 
+DOCUMENTOS VALORADOS
+Tipo   Nro             Dolares  
+TICK-B      1    11.60     0.00 
+TICK-F      2     7.80     0.00 
+Total  Ventas    19.40     0.00 
+RESUMEN DE VENTAS
+Valor Bruto      16.45     0.00 
+Descuentos        0.00     0.00 
+Valor Venta      16.45     0.00 
+Impuesto          2.95     0.00 
+Imp adicional     0.00     0.00 
+Detracc.Cobra     0.00     0.00 
+DetraccNoCobr     0.00     0.00 
+Exonerado         0.00     0.00 
+Otros Dsctos      0.00     0.00 
+Imp.Excep.        0.00     0.00 
+Total Ventas     19.40     0.00 
+ORDEN TRABAJO 
+TotalOrden        0.00     0.00 
+INGRESOS/EGRESOS
+Servc  Nro             Dolares  
+-----------------------------------
+TOT.EFE.CAJA      19.40     6.93 
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro             Dolares  
+SOLES       3    19.40     0.00 
+Total  Fpago     19.40     0.00 
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/SALDOS
+SOLES            19.40     0.00 
+Subtotal         19.40     0.00 
+-----------------------------------
+Total            19.40     6.93 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*** UNIDADES VENDIDAS ***           
+-----------------------------------
+*** FAMILIAS ***              
+CAMION             B     1    11.60
+LIGERO             S     1     3.90
+LIGERO             B     1     3.90
+<<Total                  3    19.40
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

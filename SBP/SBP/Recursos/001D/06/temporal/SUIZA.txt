@@ -1,0 +1,24 @@
+     DE:LAURA HUAMANGUILLAS JOEL RUBEN 
+     CAL.NICOLAS DE PIEROLA NRO.505 INT.9
+         AREQUIPA-AREQUIPA-AREQUIPA
+             TELF.:054-221218
+---------------------------------------
+TICKET NRO:009-111         CAJ:SUIZA
+CAJA:01 TN:1 06/02/2018 17:41:57  
+VEND:       DO:                         
+CLIENTE:KENYO ROÑA               
+F.E: 06/02/2018 HORAE:17:40:35  
+      *** V ***      
+---------------------------------------
+CANT UND  PRODUCTO              TOTAL
+1.00 UND  ARROZ CON PAPA A LA H   12.00 
+--------------------------------------
+DESCUENTO                     :    0.00
+TOTAL VENTA                   :   12.00
+FORMA DE PAGO
+EFECTIVO                      :   12.00
+VUELTO   Soles               :    0.00
+--------------------------------------
+      GRACIAS POR SU PREFERENCIA.
+   DOCUMENTO NO VALIDO PARA SUNAT
+       RECLAME SU COMPROBANTE

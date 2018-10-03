@@ -1,0 +1,70 @@
+
+      CUADRE PARCIAL NRO: 26-7
+            HORA 18:04:24
+-----------------------------------
+CAJERO.% CAJA.% TNO.%
+FECHAI.26/07/2017 FECHAF.26/07/2017
+-----------------------------------
+Ticket Boleta :  7       al  7     
+Ticket Factura:                    
+Boleta Manual :                    
+Factura Manual:                    
+Nota   Credito:                    
+T/CAMBIO :2.840
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/               
+01 1 434     1         34.00        
+SERVICIOS
+Servc  Nro    S/       Dolares 
+Rapid       1    34.00     0.00
+DOCUMENTOS VALORADOS
+Tipo   Nro    S/       Dolares 
+TICK B      1    34.00     0.00
+Total  Ventas    34.00     0.00
+RESUMEN DE VENTAS
+Valor Bruto      34.00     0.00
+Descuentos        0.00     0.00
+Valor Venta      28.81     0.00
+IGV               5.19     0.00
+Percepcion
+Servicio 10%      0.00     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo          0.00     0.00
+Total Ventas     34.00     0.00
+-----------------------------------
+TOT.EFE.CAJA      34.00     0.00
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro    S/       Dolares 
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/       Dolares 
+EFECTI      1    34.00     0.00
+Total  Fpago     34.00     0.00
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+FORMA DE PAGO/SALDOS
+EFECTI           34.00     0.00
+Subtotal         34.00     0.00
+-----------------------------------
+Total            34.00     0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

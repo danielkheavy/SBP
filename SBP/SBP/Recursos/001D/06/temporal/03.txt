@@ -1,0 +1,28 @@
+           MARKET DONNA
+     CORPORACION DONNA S.R.L
+ Calle Samoa 352 - LA MOLINA-LIMA
+        TELEFONO: 479-2358
+        Ruc.20517322513
+---------------------------------------
+TIC BOL :B01 3         SERIE:FFFF240131
+03  01 TN:1 22/01/2015 19:43:42  
+NOMBRE:                         
+*** V ***      
+CANT         PRODUCTO   P.UNI.   TOTAL
+---------------------------------------
+ 1.00 UND MANZANA CON    5.00   5.00
+ 1.00 UND MAZAMORRA      2.00   2.00
+TOTAL VENTA     S/.     :       7.00
+PAGO CON EFECTIVO       :       7.00
+VUELTO          S/.     :       0.00
+                                
+ IGV 18%  ITEMS 2.00
+SERVICIO DELIVERY LLAMENOS AL 479-2358
+
+
+
+
+
+
+
+

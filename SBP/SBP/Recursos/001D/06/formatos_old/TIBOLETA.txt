@@ -1,0 +1,33 @@
+{          SURVIAL S.A
+   PASEO DE LA REPUBLICA 4675
+        SURQUILLO LIMA
+    PEAJE PICHIRHUA APURIMAC
+   RUC 20517216241   FF9F010772
+------------------------------------
+TICKET NRO :[SERIE,1,3,] [NUMERO,1,11,]  SENTIDO:[SENTIDO,1,1,]
+      DETRACCION: [DENUMERO,1,15,]
+[USUARIO,1,6,] CJ:[CAJA,1,2,] TN:[TURNO,1,1,] [FECHAE,1,10,] [HORA,1,8,]
+        [ESTADO,1,15,]
+--------------------------------------
+CANTI UNI DESCRIPCIO TOTAL}     
+/[CANTIDAD,1,5,] x[DESCRIPCIO,1,20,] [TOTAL,1,8,]
+PLACA NRO:[PLACA,1,10,]\
+$TOTAL POR PEAJE                 :[XNETO,1,8,]
+  TOTAL POR DETRACCION      :[TDETRA,1,8,]     
+ TOTAL VENTA             :[TOTAL,1,8,]?
+<     [DESCRIPCIO,1,15,]         [RECIBE,1,8,]
+     VUELTO [SALDOS,1,8,]>
+^"Los importes contenidos en este docu-
+  mento que correspondan ser percibidos
+  por Survial S.A. han sido cedidos en
+  propiedad fiduciaria en favor de 
+  Citibank del Peru S.A."
+               SURVIAL
+            A SU SERVICIO
+
+
+
+
+
+
+

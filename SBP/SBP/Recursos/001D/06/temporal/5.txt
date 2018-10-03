@@ -1,0 +1,68 @@
+SURVIAL SAC                                                                Pagina :3      
+Usuario :5                                                                 Hora   :13:30:40    
+ 
+                                                                                          
+ALMACEN : 04|TORIBIO     
+FECHA INICIO :23/05/2011                
+FECHA FINAL  :12/10/2011                
+----------------------------------------------------------------------------------------------------------------------------------
+Producto   Descripcio                               Unid   Fx       Cantid      Costo      Total 
+----------------------------------------------------------------------------------------------------------------------------------
+COCINACOCINA                        *
+COCINA-       
+CH4H008-23 COC 4 H C/H "ANNY" F/AC T/AC T/VID       UND   x1             4        305       1220 
+AU11-06    COC 4 H C/HORNO .ORQUI. INOX C/TVPTA/ESP UND   x1             0          0          0 
+AU02-01    COC A GAS 2H ECONOMICA ACERO S/T Q/ALU   UND   x1             4          0          0 
+AU 32-04   COC SEMI-IND 1H #7 PIE Q/A C/PILOTO      UND   x1             2          0          0 
+AU15-02    COC SEMI-IND 2 H # 3 MESA LUXE Q/BRONCE  UND   x1             4          0          0 
+AU16-02    COC SEMI-IND 2 H # 3 PIE LUXE Q/BRONCE   UND   x1            11          0          0 
+AU16-04    COC SEMI-IND 2 H # 3 PIE LUXE Q/MIXTO P/ UND   x1             7          0          0 
+AU03-01    COCINA A GAS 02 HOR 2002 TODO ACERO C/TA UND   x1             0          0          0 
+AU03-02    COCINA A GAS 02 HOR 2002 TODO ACERO S/TA UND   x1             0          0          0 
+AU05-01    COCINA A GAS 02 HOR CLASICO GRANDE TAB/A UND   x1             1          0          0 
+AU07-01    COCINA A GAS 02 HOR CLASICO OVAL TAB/ACE UND   x1             0          0          0 
+AU07-03    COCINA A GAS 02 HOR CLASICO OVAL TODO AC UND   x1             5          0          0 
+AU06-01    COCINA A GAS 02 HOR PRINCESA CHICA ESMAL UND   x1             5          0          0 
+AU06-02    COCINA A GAS 02 HOR PRINCESA CHICO ESMAL UND   x1            40          0          0 
+AU06-03    COCINA A GAS 02 HOR PRINCESA CHICO LOZA  UND   x1             0          0          0 
+AU06-05    COCINA A GAS 02 HOR PRINCESA GRANDE ESMA UND   x1            21          0          0 
+AU06-07    COCINA A GAS 02 HOR PRINCESA GRANDE LOZA UND   x1             0          0          0 
+AU04-01    COCINA A GAS 02 HORN CLASICO CHICO TAB/A UND   x1             5          0          0 
+AU06-09    COCINA A GAS 03 HOR PRINCESA ESMALTADA C UND   x1             4          0          0 
+AU05-05    COCINA A GAS 03 HORN CLASICO TAB/ACERO S UND   x1             2          0          0 
+AU05-08    COCINA A GAS 03 HORN CLASICO TOTAL ACERO UND   x1             2          0          0 
+AU05-07    COCINA A GAS 03 HORN CLASICO TOTAL ACERO UND   x1             1          0          0 
+AU09-01    COCINA A GAS 04 HOR MESA "KAREN" TAB/ACE UND   x1             3          0          0 
+AU09-03    COCINA A GAS 04 HOR MESA "KAREN" TAB/ACE UND   x1             0          0          0 
+CE16-05    COCINA SEMI -IND 4 H # 3 PIE LUXE Q/MIXT UND   x1             2          0          0 
+AU14-01    COCINA SEMI-IND 01 HORN # 3 DE PIE ECONO UND   x1             0          0          0 
+AU13-01    COCINA SEMI-IND 01 HORN # 3 MESA ECONOM. UND   x1             0          0          0 
+AU25-01    COCINA SEMI-IND 01 HORN # 5 DE MESA P/F  UND   x1             6          0          0 
+AU26-01    COCINA SEMI-IND 01 HORN # 5 DE PIE P/FIJ UND   x1             1          0          0 
+AU32-01    COCINA SEMI-IND 01 HORN # 7 DE PIE P/DES UND   x1             4          0          0 
+AU27-02    COCINA SEMI-IND 02 HORN # 5 DE PIE Q/AL  UND   x1             2          0          0 
+AU27-04    COCINA SEMI-IND 02 HORN #5 PIE Q/HGO P/D UND   x1             3          0          0 
+AU33-02    COCINA SEMI-IND 02 HORN #7 PIE P/DESM P/ UND   x1             0          0          0 
+AU28-01    COCINA SEMI-IND 03 HORN # 5 DE PIE Q/AL  UND   x1             0          0          0 
+AU34-01    COCINA SEMI-IND 03 HORN # 7 DE PIE P/DES UND   x1             8          0          0 
+AU34-02    COCINA SEMI-IND 03 HORN # 7 DE PIEP/DESM UND   x1             1          0          0 
+AU36-02    COCINA SEMI-IND 04 HORN # 7 DE PIE P/DES UND   x1             1          0          0 
+AU15-01    COCINA SEMI-IND 2 H # 3 MESA LUXE Q/ALUM UND   x1            26          0          0 
+AU15-04    COCINA SEMI-IND 2 H # 3 MESA LUXE Q/MIXT UND   x1             0          0          0 
+AU21-01    COCINA SEMI-IND 3 H # 3 MESA LUXE Q/AL P UND   x1             2          0          0 
+AU22-01    COCINA SEMI-IND 3 H # 3 PIE LUXE Q/AL P/ UND   x1             0          0          0 
+AU22-02    COCINA SEMI-IND 3 H # 3 PIE LUXE Q/HONGO UND   x1             0          0          0 
+HORNO HORNO                          
+SURVIAL SAC                                                                Pagina :4      
+Usuario :5                                                                 Hora   :13:30:40    
+ 
+                                                                                          
+ALMACEN : 04|TORIBIO     
+FECHA INICIO :23/05/2011                
+FECHA FINAL  :12/10/2011                
+----------------------------------------------------------------------------------------------------------------------------------
+Producto   Descripcio                               Unid   Fx       Cantid      Costo      Total 
+----------------------------------------------------------------------------------------------------------------------------------
+HORNO -       
+AU12-01    HORNO ELECTRICO - OVNI                   UND   x1            15          0          0 
+                                                                       192                  1220 

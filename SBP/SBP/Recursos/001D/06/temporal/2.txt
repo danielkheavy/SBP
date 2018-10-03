@@ -1,0 +1,55 @@
+      CUADRE PARCIAL NRO: 10-6
+            HORA 11:20:14
+-----------------------------------
+CAJERO.2 CAJA.02 TNO.1             
+FECHAI.10/06/2012 FECHAF.10/06/2012
+-----------------------------------
+T/CAMBIO :0.000
+SERVICIOS
+Servc  Nro             Dolares  
+DOCUMENTOS VALORADOS
+Tipo   Nro             Dolares  
+Total  Ventas     0.00     0.00 
+RESUMEN DE VENTAS
+Valor Bruto       0.00     0.00 
+Descuentos        0.00     0.00 
+Valor Venta       0.00     0.00 
+Impuesto          0.00     0.00 
+Imp adicional     0.00     0.00 
+Detracc.Cobra     0.00     0.00 
+DetraccNoCobr     0.00     0.00 
+Exonerado         0.00     0.00 
+Otros Dsctos      0.00     0.00 
+Imp.Excep.        0.00     0.00 
+Total Ventas      0.00     0.00 
+INGRESOS/EGRESOS
+Servc  Nro             Dolares  
+-----------------------------------
+TOT.EFE.CAJA       0.00     0.00 
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro             Dolares  
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/SALDOS
+    0.00     0.00 
+Subtotal          0.00     0.00 
+-----------------------------------
+Total             0.00     0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

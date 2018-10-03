@@ -1,0 +1,29 @@
+{
+
+
+
+
+
+
+
+
+
+         
+
+     
+       [NOMBRE,1,58,][CODIGO,1,11,]    [FECHA,1,10,]       [OBSERVA,1,8,]      
+                                   [CDR,1,29,] 
+       [CLIENTES>DIRECCION,1,120,]
+   PAgo: [FPAGO>DESCRIPCIO,1,120,]
+   
+
+}
+
+/  [PRODUCTO,1,8,] [CANTIDAD,1,5,]    [DESCRIPCIO,1,60,][PRECIO,1,8,4,]   [TOTAL,1,8,4,]\
+$       [@TOTAL,1,90,4,]                                                                    
+                                                                                          [SUBTOTAL,1,11,4,]
+
+	[VENDEDOR>NOMBRE,1,10,]    				                                   18 %    [IMPUESTO,1,11,4,] 
+        						  	        
+                                                                                          [TOTAL,1,11,4,]?
+

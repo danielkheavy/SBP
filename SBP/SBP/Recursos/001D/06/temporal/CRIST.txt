@@ -1,0 +1,36 @@
+  INNOVACION TEXTIL S.A.C.
+  CALLE REAL Nro.593 HUANCAYO
+     RUC  20485935691
+@holamundo+
+---------------------------------------
+TICK NRO:29180  SERIE:TFCFIKA08120020
+VEND:CRI 01 TN:1 25/07/2014 11:07:27  
+NONBRE:                         
+*** V ***      
+CANT UNIDA CODIGO  PRODUCTO   TOTAL
+---------------------------------------
+1.00 UND LONG ISLAND        20.00
+1.00 UND PISCINA            20.00
+1.00 UND AMOR EN LLAMAS     20.00
+TOTAL VENTA     S/.          :    60.00
+PAGO CON EFECTIVO            :    60.00
+VUELTO          S/.          :     0.00
+                                
+  @IGV 19%     9.15  ITEMS 3.00 
+       GRACIAS POR SU COMPRA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

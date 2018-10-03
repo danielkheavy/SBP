@@ -1,0 +1,33 @@
+            Ñ  Y CAFE EUROPA
+        UNLIMITED COMPANY S.A.C.
+CAL. ALONSO DE MOLINA MZB LOTE 22 SURCO
+          Ñ AV. MENDIOLA 1400 
+      INDEPENDENCIA - LIMA - LIMA
+     RUC:2255416122  SN:FFBF021961
+---------------------------------------
+FACTURA ELECTRONICA:F001-27        
+CAJERO:IDE  CAJA:01 TURNO:1
+SALON:   MESA:   MOZO:
+FECHA EMISION:25/09/2018 12:41:23  
+RUC CLIENTE :20556317195
+RAZON SOCIAL:VISITEC PERU S.A.C.                                    
+DIRECCION:AV. VENEZUELA NRO. 1179 INT. 301 LIMA       - LIMA     
+*** V ***      
+CANT DESCRIPCION              P.U.     TOTAL
+----------------------------------------
+1.00 PRUEBA CON IGV          5.00     5.00
+1.00 PRUEBA SIN IGV          8.00     8.00
+---------------------------------------
+DESCUENTO               S/   :     0.00
+OP. GRAVADAS            S/   :    12.24
+IGV                     S/   :     0.76
+TOTAL VENTA             S/   :    13.00
+PAGO CON EFECTIVO            :    13.00
+VUELTO                  S/   :     0.00
+----------------------------------------
+Representacion impresa de la FACTURA DE VENTA
+    ELECTRONICA puede ser consultada en
+    https:consulta.easyfact.tk
+         GRACIAS POR SU PREFERENCIA
+   
+	dgLU6wpWfhsEmudoNyQqkv8TPl4=  

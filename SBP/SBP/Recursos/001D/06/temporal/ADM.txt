@@ -1,0 +1,113 @@
+NUAR SAC
+AV.LOS MAESTROS N 206 INT.108
+FUNDO SAN JOSE 
+ICA  - ICA - ICA
+CENTRO COMERCIAL 
+EL QUINDE SHOPPING PLAZA
+RUC:20602435611 SN:PSSIFIKA17010148
+NRO.AUTORIZACION:0103845129526
+      CUADRE PARCIAL NRO: 15-12
+            HORA 17:50:23
+-----------------------------------
+CAJERO.% CAJA.% TNO.%
+FECHAI.10/12/2017 FECHAF.10/12/2017
+-----------------------------------
+
+          RANGO DE TICKET
+===================================
+Ticket Boleta :  4564    al  4769  
+Ticket Factura:  54      al  54    
+Nota de Venta :                    
+Boleta Manual :                    
+Factura Manual:                    
+Nota   Credito:                    
+
+     VENTAS POR USUARIO/TURNO
+===================================
+T/CAMBIO :1.000
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/               
+01 1 CJ3   204       2533.60        
+
+        VENTAS POR SERVICIO
+===================================
+Servc  Nro    S/       Dolares 
+Rapid     169  1689.50     0.00
+SA:01      35   844.10     0.00
+
+       DOCUMENTOS VALORADOS
+===================================
+Tipo   Nro    S/       Dolares 
+TICK B    203  2521.10     0.00
+ANULAD      3    32.50     0.00
+TICK F      1    12.50     0.00
+Total  Ventas  2533.60     0.00
+
+          RESUMEN DE VENTAS
+===================================
+Valor Bruto    2533.60     0.00
+Descuentos        0.00     0.00
+Valor Venta    2146.90     0.00
+IGV             386.70     0.00
+Percepcion
+Servicio 10%      0.00     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo          0.00     0.00
+Total Ventas   2533.60     0.00
+
+          OTROS DOCUMENTOS
+===================================
+Tipo   Nro    S/       Dolares 
+Total  Otros      0.00     0.00
+NETO VENTAS    2533.60     0.00
+
+         ORDEN DE TRABAJO
+===================================
+Nro              Total  Acuenta 
+TotalOrden        0.00     0.00
+
+         INGRESOS/EGRESOS
+===================================
+Servc  Nro    S/       Dolares 
+===================================
+TOT.EFE.CAJA    2533.60  2533.60
+===================================
+
+          FORMAS DE PAGO
+===================================
+Fpago  Nro    S/       Dolares 
+-----------------------------------
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/       Dolares 
+EFECTIVO    204  2533.60     0.00
+Total  Fpago   2533.60     0.00
+-----------------------------------
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+-----------------------------------
+FORMA DE PAGO/SALDO FINAL
+EFECTIVO         2533.60     0.00
+Subtotal       2533.60     0.00
+-----------------------------------
+Total          2533.60  2533.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

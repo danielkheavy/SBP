@@ -1,0 +1,721 @@
+[Root]
+Most Recent Package=Instalacion Sistema Orion Peaje
+
+
+[Package|Instalacion Sistema Orion ERP|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\ERP
+
+[Package|Instalacion Sistema Orion ERP|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Instalacion Sistema Orion ERP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalacion Sistema Orion ERP|Files Found]
+
+[Package|Instalacion Sistema Orion ERP|Files Released]
+GDI.DLL=
+user.DLL=
+
+[Package|Instalacion Sistema Orion ERP|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\GestionConsultorios\mschrt20.ocx=
+C:\GestionConsultorios\MSCOMM32.OCX=
+C:\WINNT\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\wininet.dll=
+
+[Package|Instalacion Sistema Orion ERP|Out-of-Date Dependency Information]
+C:\WINNT\system32\richtx32.ocx=
+C:\WINNT\system32\msdatgrd.ocx=
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINNT\system32\mscomctl.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Instalacion Sistema Orion ERP|Files Added]
+
+[Package|Instalacion Sistema Orion ERP|Files Removed]
+
+[Package|Instalacion Sistema Orion ERP|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSCOMES.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\DBGRDES.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\WINDOWS\system32\RCHTXES.DLL=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\DBLSTES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\rp_orion.v2\erporion.exe=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+
+[Package|Instalacion Sistema Orion ERP|Configure Registry Files]
+Applicable=No
+
+[Package|Instalacion Sistema Orion ERP|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalacion Sistema Orion ERP|Install Locations]
+D:\rp_orion\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\GestionConsultorios\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRDES.DLL=$(WinSysPath)
+C:\GestionConsultorios\mschrt20.ocx=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\vb6es.dll=$(WinSysPath)
+C:\WINNT\system32\msjet35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMES.DLL=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBGRDES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCH2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINNT\system32\richtx32.ocx=$(WinSysPath)
+C:\WINNT\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINNT\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBLSTES.DLL=$(WinSysPath)
+C:\WINNT\system32\msxbse35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\rp_orion\erporion=$(AppPath)
+C:\WINDOWS\system32\mscomm32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomes.dll=$(WinSysPath)
+C:\WINDOWS\system32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msch2es.dll=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLSTES.DLL=$(WinSysPath)
+D:\rp_orion.v1\erporion.exe=$(AppPath)
+C:\WINNT\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\rp_orion.v1\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\rp_orion.v2\erporion.exe=$(AppPath)
+D:\rp_orion.v2\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+
+[Package|Instalacion Sistema Orion ERP|Configure Shared Files]
+Applicable=Yes
+D:\rp_orion\erporion.exe=Yes
+C:\rp_orion\erporion=No
+D:\rp_orion.v1\erporion.exe=Yes
+C:\rp_orion.v1\erporion.exe=Yes
+C:\rp_orion.v2\erporion.exe=Yes
+D:\rp_orion.v2\erporion.exe=No
+
+[Package|Instalacion Sistema Orion ERP|Distribution]
+Type=single
+Size=
+Title=Sistema Orion ERP
+
+[Package|Instalacion Sistema Orion ERP|Package]
+PackageFolder=c:\ERP
+ProjectFolder=C:\WINDOWS\xx\fuente
+ServerSideCab=
+File1=c:\ERP\setup.exe
+File2=c:\ERP\Setup.Lst
+File3=c:\ERP\erporion.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Instalacion Sistema Orion ERP|IconGroups]
+Group0=Sistema Orion
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Instalacion Sistema Orion ERP|Sistema Orion]
+Icon1=erporion.exe
+Title1=Sistema Orion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Instalacion Sistema Orion|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\paquete
+
+[Package|Instalacion Sistema Orion|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Instalacion Sistema Orion|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalacion Sistema Orion|Files Found]
+
+[Package|Instalacion Sistema Orion|Files Released]
+
+[Package|Instalacion Sistema Orion|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\GestionConsultorios\mschrt20.ocx=
+C:\GestionConsultorios\MSCOMM32.OCX=
+C:\WINNT\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\wininet.dll=
+D:\nuevo erp\fuente\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+D:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+C:\WINDOWS\system32\PrinterAPI.dll=
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=
+J:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+
+[Package|Instalacion Sistema Orion|Out-of-Date Dependency Information]
+C:\WINNT\system32\richtx32.ocx=
+C:\WINNT\system32\msdatgrd.ocx=
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|Instalacion Sistema Orion|Files Added]
+
+[Package|Instalacion Sistema Orion|Files Removed]
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|Instalacion Sistema Orion|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\msvbvm60.dll=No
+C:\WINDOWS\system32\oleaut32.dll=No
+C:\WINDOWS\system32\olepro32.dll=No
+C:\WINDOWS\system32\asycfilt.dll=No
+C:\WINDOWS\system32\stdole2.tlb=No
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\mscomm32.ocx=Yes
+C:\WINDOWS\system32\mscomes.dll=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\cmdlges.dll=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\DBGRDES.DLL=Yes
+C:\WINDOWS\system32\mschrt20.ocx=Yes
+C:\WINDOWS\system32\msch2es.dll=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\WINDOWS\system32\rchtxES.dll=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\DBLSTES.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\rp_orion.v2\erporion.exe=Yes
+J:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=Yes
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCES.DLL=Yes
+
+[Package|Instalacion Sistema Orion|Configure Registry Files]
+Applicable=No
+
+[Package|Instalacion Sistema Orion|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalacion Sistema Orion|Install Locations]
+D:\rp_orion\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\GestionConsultorios\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRDES.DLL=$(WinSysPath)
+C:\GestionConsultorios\mschrt20.ocx=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\vb6es.dll=$(WinSysPath)
+C:\WINNT\system32\msjet35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMES.DLL=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBGRDES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCH2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINNT\system32\richtx32.ocx=$(WinSysPath)
+C:\WINNT\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINNT\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBLSTES.DLL=$(WinSysPath)
+C:\WINNT\system32\msxbse35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\rp_orion\erporion=$(AppPath)
+C:\WINDOWS\system32\mscomm32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomes.dll=$(WinSysPath)
+C:\WINDOWS\system32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msch2es.dll=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLSTES.DLL=$(WinSysPath)
+C:\rp_orion.v2\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+D:\nuevo erp\fuente\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+D:\nuevo_erp\fuente\erporion.exe=$(AppPath)
+D:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\PrinterAPI.dll=$(WinSysPath)
+J:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+
+[Package|Instalacion Sistema Orion|Configure Shared Files]
+Applicable=Yes
+D:\rp_orion\erporion.exe=Yes
+C:\rp_orion\erporion=No
+C:\rp_orion.v2\erporion.exe=Yes
+D:\nuevo_erp\fuente\erporion.exe=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+
+[Package|Instalacion Sistema Orion|Distribution]
+Type=single
+Size=
+Title=Sistema Orion
+
+[Package|Instalacion Sistema Orion|IconGroups]
+Group0=Sistema Orion
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Instalacion Sistema Orion|Sistema Orion]
+Icon1=erporion.exe
+Title1=Sistema Orion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instalacion Sistema Orion|Package]
+PackageFolder=C:\paquete
+ProjectFolder=J:\nuevo_erp\fuente
+ServerSideCab=
+File1=C:\paquete\setup.exe
+File2=C:\paquete\Setup.Lst
+File3=C:\paquete\erporion.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Instalacion Sistema Orion Peaje|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\instala
+
+[Package|Instalacion Sistema Orion Peaje|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Instalacion Sistema Orion Peaje|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalacion Sistema Orion Peaje|Files Found]
+
+[Package|Instalacion Sistema Orion Peaje|Files Released]
+
+[Package|Instalacion Sistema Orion Peaje|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+C:\GestionConsultorios\mschrt20.ocx=
+C:\GestionConsultorios\MSCOMM32.OCX=
+C:\WINNT\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\wininet.dll=
+D:\nuevo erp\fuente\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=
+D:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+C:\WINDOWS\system32\PrinterAPI.dll=
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=
+J:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+C:\WINDOWS\system\ezAVI26.ocx=
+C:\WINDOWS\system32\wmp.dll=
+F:\nuevo_erp\fuentepeaje\webcam\ezvidcap\ezVidCap.ocx=
+F:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=
+C:\WINDOWS\system32\ezAVI26.ocx=
+C:\WINDOWS\system32\ezVidCap.ocx=
+C:\WINDOWS\system\ezVidCap.ocx=
+
+[Package|Instalacion Sistema Orion Peaje|Out-of-Date Dependency Information]
+C:\WINNT\system32\richtx32.ocx=
+C:\WINNT\system32\msdatgrd.ocx=
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|Instalacion Sistema Orion Peaje|Files Added]
+
+[Package|Instalacion Sistema Orion Peaje|Files Removed]
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|Instalacion Sistema Orion Peaje|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\msvbvm60.dll=No
+C:\WINDOWS\system32\oleaut32.dll=No
+C:\WINDOWS\system32\olepro32.dll=No
+C:\WINDOWS\system32\asycfilt.dll=No
+C:\WINDOWS\system32\stdole2.tlb=No
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\mscomm32.ocx=Yes
+C:\WINDOWS\system32\mscomes.dll=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\cmdlges.dll=Yes
+C:\WINDOWS\system32\DBGRID32.OCX=Yes
+C:\WINDOWS\system32\DBGRDES.DLL=Yes
+C:\WINDOWS\system32\mschrt20.ocx=Yes
+C:\WINDOWS\system32\msch2es.dll=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\WINDOWS\system32\rchtxES.dll=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\DBLSTES.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCES.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\orion.v5\CAJA5X.EXE=Yes
+C:\WINDOWS\system32\PrinterAPI.dll=Yes
+C:\WINDOWS\system32\ezVidCap.ocx=Yes
+C:\WINDOWS\system32\ezAVI26.ocx=Yes
+
+[Package|Instalacion Sistema Orion Peaje|Configure Registry Files]
+Applicable=No
+
+[Package|Instalacion Sistema Orion Peaje|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalacion Sistema Orion Peaje|Install Locations]
+D:\rp_orion\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\GestionConsultorios\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRDES.DLL=$(WinSysPath)
+C:\GestionConsultorios\mschrt20.ocx=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\vb6es.dll=$(WinSysPath)
+C:\WINNT\system32\msjet35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMES.DLL=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBGRDES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCH2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINNT\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINNT\system32\richtx32.ocx=$(WinSysPath)
+C:\WINNT\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINNT\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBLSTES.DLL=$(WinSysPath)
+C:\WINNT\system32\msxbse35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\rp_orion\erporion=$(AppPath)
+C:\WINDOWS\system32\mscomm32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomes.dll=$(WinSysPath)
+C:\WINDOWS\system32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msch2es.dll=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLSTES.DLL=$(WinSysPath)
+C:\rp_orion.v2\erporion.exe=$(AppPath)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+D:\nuevo erp\fuente\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+D:\nuevo_erp\fuente\erporion.exe=$(AppPath)
+D:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\PrinterAPI.dll=$(WinSysPath)
+J:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\orion.v5\erporion.exe=$(AppPath)
+F:\nuevo_erp\argox x-1000v\Visual Basic 6[1].0 - Access\Visual Basic 6.0 - Access\PrinterAPI.dll=$(WinSysPath)
+F:\nuevo_erp\fuentepeaje\webcam\ezvidcap\ezVidCap.ocx=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system\ezAVI26.ocx=$(WinSysPath)
+C:\orion.v5\CAJA5X.EXE=$(AppPath)
+C:\WINDOWS\system32\ezVidCap.ocx=$(WinSysPath)
+C:\WINDOWS\system32\ezAVI26.ocx=$(WinSysPath)
+C:\WINDOWS\system\ezVidCap.ocx=$(WinSysPath)
+
+[Package|Instalacion Sistema Orion Peaje|Configure Shared Files]
+Applicable=Yes
+D:\rp_orion\erporion.exe=Yes
+C:\rp_orion\erporion=No
+C:\rp_orion.v2\erporion.exe=Yes
+D:\nuevo_erp\fuente\erporion.exe=Yes
+C:\Archivos de programa\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\orion.v5\erporion.exe=Yes
+C:\orion.v5\CAJA5X.EXE=Yes
+
+[Package|Instalacion Sistema Orion Peaje|Distribution]
+Type=single
+Size=
+Title=Sistema Orion V5.0 Peaje
+
+[Package|Instalacion Sistema Orion Peaje|Package]
+PackageFolder=C:\instala
+ProjectFolder=F:\nuevo_erp\fuentepeaje
+ServerSideCab=
+File1=C:\instala\setup.exe
+File2=C:\instala\Setup.Lst
+File3=C:\instala\CAJA5X.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Instalacion Sistema Orion Peaje|IconGroups]
+Group0=Sistema Orion
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Instalacion Sistema Orion Peaje|Sistema Orion]
+Icon1=erporion.exe
+Title1=Sistema Orion
+StartIn1=$(AppPath)
+Key1=Icon1

@@ -1,0 +1,22 @@
+{KALI INGENIEROS                    BOLETA DE PAGO
+ AV. BENAVIDES 222-MIRAFLORES       MES DE :[MESANNO,1,6,] 
+ RUC. 20336425710
+ REG. PATRONAL 23232323232          FECHA PAGO:[MESANNO,1,6,]
+-----------------------------------------------------------------------------------------
+APELLIDOS NOMBRE :[NOMBRE,1,40,]       CODIGO       :[VENDEDOR,1,11,]
+OCUPACION        :[CARGO,1,40,]       AUTOGENERADO :[SEGURO,1,11,]
+FECHA INGRESO    :[FECHAINGRE,1,10,]   
+-----------------------------------------------------------------------------------------
+REMUNERACIONES               APORTES Y DESCUENTOS         APORTACIONES DEL EMPLEADOR
+-----------------------------------------------------------------------------------------}
+$-----------------------------------------------------------------------------------------
+TOTAL REMUNERACION :[TOTREMU,1,8,] TOTAL DESCUENTOS :[TOTDESC,1,8,] TOTAL APORTACION :[TOTAPOR,1,8,]
+NETO A PAGAR                :[TOTNETO,1,8,]
+
+
+
+
+     ------------------                        -----------------------
+     EMPLEADOR                                 RECIBI CONFORME
+
+?

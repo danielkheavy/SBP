@@ -1,0 +1,23 @@
+      EMPRESA EMPRESA EMPRESA
+               EMPRESA  
+    DIRECCION DIRECCION DIRECCION
+        DIRECCION DIRECCION   
+    RUC:XXXXXXXXXXX SN:XXXXXXXXXX
+           TELF.:XXX-XXXX       
+---------------------------------------
+BOLETA: B01 -6424         VEN:CAJ
+CAJA:01 TN:1 18/11/2015 12:27:21  
+CLIENTE:                    
+*** V ***      
+---------------------------------------
+CANT  DESCRIPCION         P.U.   TOTAL
+1.00  MIKADO CANELA       34.90  34.90
+--------------------------------------
+DESCUENTO  0.0%               : 0.00 
+NETO                          :   29.58
+TOTAL VENTA                   :   34.90
+FORMA DE PAGO
+EFECTIVO S/.                  :   34.90
+VUELTO                        :    0.00
+--------------------------------------
+       GRACIAS POR SU PREFERENCIA.

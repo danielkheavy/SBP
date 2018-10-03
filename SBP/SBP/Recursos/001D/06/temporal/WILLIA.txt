@@ -1,0 +1,46 @@
+  INNOVACION TEXTIL S.A.C.
+  CALLE REAL Nro.593 HUANCAYO
+     RUC  20485935691
+---------------------------------------
+TICK NRO:212    SERIE:TFCFIKA08120020
+VEND:WIL 01 TN:1 10/01/2015 16:45:51  
+NONBRE:                         
+*** V ***      
+CANT UNIDA CODIGO  PRODUCTO   TOTAL
+---------------------------------------
+1.00 UND RON                10.00
+1.00 UND WHISKY             80.00
+1.00 UND CERVEZA BLANCA      7.00
+1.00 UND POLLO BRASA        40.00
+1.00 UND RED BULL           10.00
+1.00 UND GASEOSA 1LT         7.00
+2.50 UND PROFILACTICO       12.50
+1.00 UND SHAMPOO             1.50
+TOTAL VENTA     S/.          :   168.00
+PAGO CON EFECTIVO            :   168.00
+VUELTO          S/.          :     0.00
+                                
+  £RON       Ø 
+
+@IGV 19%    25.63  ITEMS 9.50 
+       GRACIAS POR SU COMPRA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

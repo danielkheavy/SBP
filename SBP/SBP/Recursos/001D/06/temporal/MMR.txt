@@ -1,0 +1,71 @@
+     CIERRE DEL DIA NRO: 000001
+            HORA 17:13:03
+-----------------------------------
+CAJERO.MMR CAJA.01 TNO.1           
+FECHAI.14/03/2011 FECHAF.14/03/2011
+-----------------------------------
+TB-I:1           TB-F:2           
+TF-I:1           TF-F:2           
+NCTI:            NCTF:            
+BM-I:            BM-F:            
+FM-I:            FM-F:            
+NC-I:            NC-F:            
+T/CAMBIO :2.800
+SERVICIOS
+Servc  Nro             Dolares  
+Rapid       5    31.10     0.00 
+DOCUMENTOS VALORADOS
+Tipo   Nro             Dolares  
+TICK-F      2    15.50     0.00 
+TICK-B      2    15.60     0.00 
+EXONER      1     0.00     0.00 
+Total  Ventas    31.10     0.00 
+RESUMEN DE VENTAS
+Valor Bruto      22.98     0.00 
+Descuentos        0.00     0.00 
+Valor Venta      22.98     0.00 
+Impuesto          4.13     0.00 
+Imp adicional     0.00     0.00 
+Detracc.Cobra     4.00     0.00 
+DetraccNoCobr     0.00     0.00 
+Exonerado         0.00     0.00 
+Otros Dsctos      0.00     0.00 
+Imp.Excep.        0.00     0.00 
+Total Ventas     31.10     0.00 
+ORDEN TRABAJO 
+TotalOrden        0.00     0.00 
+INGRESOS/EGRESOS
+Servc  Nro             Dolares  
+-----------------------------------
+TOT.EFE.CAJA      31.10    11.11 
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro             Dolares  
+SOLES       4    31.10     0.00 
+EXONER      1     0.00     0.00 
+Total  Fpago     31.10     0.00 
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/SALDOS
+SOLES            31.10     0.00 
+EXONER            0.00     0.00 
+Subtotal         31.10     0.00 
+-----------------------------------
+Total            31.10    11.11 
+ 
+ 
+*** UNIDADES VENDIDAS ***           
+*** FAMILIAS ***              
+BUS                B     1    11.60
+BUS                S     1    11.70
+LIGERO             S     2     7.80
+*** EXONERADO            1
+<<Total                  4    31.10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

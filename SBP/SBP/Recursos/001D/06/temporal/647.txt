@@ -1,0 +1,82 @@
+GELATERIA LARITZA D' S.A.
+NOMBRE COMERCIAL: LARITZA D' S.A.
+C.C CAMINOS DEL INCA TD. 14 Int. TD15
+SANTIAGO DE SURCO - LIMA
+RUC:20166132585
+      
+      CUADRE PARCIAL NRO: 18-12
+            HORA 15:18:30
+-----------------------------------
+CAJERO.647 CAJA.04 TNO.1           
+FECHAI.18/12/2013 FECHAF.18/12/2013
+-----------------------------------
+TB-I:            TB-F:            
+TF-I:            TF-F:            
+NCTI:            NCTF:            
+BM-I:            BM-F:            
+FM-I:            FM-F:            
+NC-I:            NC-F:            
+T/CAMBIO :2.700
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant Soles             
+SERVICIOS
+Servc  Nro             Dolares  
+DOCUMENTOS VALORADOS
+Tipo   Nro             Dolares  
+Total  Ventas     0.00     0.00 
+RESUMEN DE VENTAS
+Valor Bruto       0.00     0.00 
+Descuentos        0.00     0.00 
+Valor Venta       0.00     0.00 
+Impuesto          0.00     0.00 
+Imp adicional     0.00     0.00 
+Detracc.Cobra     0.00     0.00 
+DetraccNoCobr     0.00     0.00 
+Exonerado         0.00     0.00 
+Otros Dsctos      0.00     0.00 
+Imp.Excep.        0.00     0.00 
+Total Ventas      0.00     0.00 
+OTROS DOCUMENTOS 
+Tipo   Nro             Dolares  
+Total  Otros      0.00     0.00 
+NETO VENTAS       0.00     0.00 
+ORDEN TRABAJO 
+Nro              Total  Acuenta 
+TotalOrden        0.00     0.00 
+INGRESOS/EGRESOS
+Servc  Nro             Dolares  
+-----------------------------------
+TOT.EFE.CAJA       0.00     0.00 
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro             Dolares  
+FORMA DE PAGO/VENTAS
+Fpago  Nro             Dolares  
+Total  Fpago               0.00 
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/SALDOS
+    0.00     0.00 
+Subtotal          0.00     0.00 
+-----------------------------------
+Total             0.00     0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*** UNIDADES VENDIDAS ***           
+-----------------------------------
+*** PRODUCTOS ***             
+<<Total               0.00     0.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

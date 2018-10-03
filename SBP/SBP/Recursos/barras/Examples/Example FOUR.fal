@@ -1,0 +1,15 @@
+Type=App|1.0.38|2005-10-05 16:18:47
+Type=Master|-2147483643|1|15,00013|11,80043
+Type=Text|FastLabel|0|-2147483633|0|Arial|24|True|False|False|False|1,116543|0,3122087
+Type=Text|Project|0|-2147483633|0|Arial|16,2|True|False|False|False|5,302255|0,5715005
+Type=Text|__________________________________________________________|0|-2147483633|0|Arial|10,8|False|False|False|False|1,121834|1,016001
+Type=Text|This CD-Rom contains:|0|-2147483633|0|Arial|12|False|False|False|False|1,217085|2,222502
+Type=Text|- FastLabel application|0|-2147483633|0|Arial|10,8|False|False|False|False|1,317626|2,926295
+Type=Text|- Help documentation|0|-2147483633|0|Arial|10,8|False|False|False|False|1,317626|3,429003
+Type=Text|- Different examples|0|-2147483633|0|Arial|10,8|False|False|False|False|1,317626|3,931712
+Type=Text|- Different Label Wizard Templates|0|-2147483633|0|Arial|10,8|False|False|False|False|1,317626|4,434421
+Type=Text|__________________________________________________________|0|-2147483633|0|Arial|10,8|False|False|False|False|1,121834|5,233463
+Type=Text|INSTRUCTIONS:|0|-2147483633|0|Arial|12|False|False|False|False|1,116543|6,445256
+Type=Text|Place this CD-Rom into your CD-Rom player and wait untill the installation|0|-2147483633|0|Arial|10,8|False|False|False|False|1,121834|7,260174
+Type=Text|starts automatic. Otherwise goto your CD-Rom station an open Setup.exe.|0|-2147483633|0|Arial|10,8|False|False|False|False|1,116543|7,752299
+Type=Text|Folow the installation instructions and wait untill the installation is finnished.|0|-2147483633|0|Arial|10,8|False|False|False|False|1,121834|8,255008

@@ -1,0 +1,26 @@
+{      DE BELLEZA IMPORT S.A.C.
+ AV CESAR VALLEJO 201 LINCE LIMA LIMA
+    RUC:20600745922 SN:FFBF266164
+     NUM. AUTOR.: 0023845093258
+           TELF.:01-4915415
+---------------------------------------
+TICKET FACTURA:[SERIE,1,4,]-[NUMERO,1,8,] CAJERO:[USUARIO,1,4,]
+CAJA:[CAJA,1,2,] TURNO:[TURNO,1,1,] [FECHAE,1,10,] [HORA,1,8,]
+RUC CLIENTE :[CODIGO,1,11,]
+RAZON SOCIAL:[NOMBRE,1,80,]
+DIRECCION   :[CLIENTES>DIRECCION,1,200,]
+[ESTADO,1,15,]
+CANT DESCRIPCION          P.U.    TOTAL
+---------------------------------------}     
+/[CANTIDAD,1,4,] [PRODUCTO>DESCORTO,1,20,] [PRECIO,1,5,] [TOTAL,1,7,]\
+$---------------------------------------
+DESCUENTO  [DESTOPO,1,3,]%               :[DESCUENTO,1,5,]
+NETO                          :[NETO,1,8,]
+SUBTOTAL                      :[SUBTOTAL,1,8,]
+IVA                   18%     :[IMPUESTO,1,8,]
+TOTAL VENTA           [PONEMONEDA]    :[TOTAL,1,8,]?
+FORMA DE PAGO?
+<[DESCRIPCIO,1,16,]              :[RECIBE,1,8,]
+VUELTO                        :[SALDOS,2,8,]>
+^---------------------------------------
+       GRACIAS POR SU PREFERENCIA

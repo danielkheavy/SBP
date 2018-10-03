@@ -1,0 +1,35 @@
+{
+
+
+
+       [TIPO,1,2,][NUMERO,1,11,]
+
+                                     
+          [NOMBREB,1,30,]          [FECHA,1,10,]                                                             
+
+          [DIRECCION,1,30,]       [CODIGO,1,11,] 
+
+
+
+}
+/   [CANTIDAD,1,5,]   [DESCRIPCIO,1,20,]                [PRECIO,1,5,]  [TOTAL,1,5,]\
+$                         
+         SON:[@TOTAL,1,43,]           [TOTAL,1,11,]?
+                                                                                             
+
+                                                                                             
+
+            
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+

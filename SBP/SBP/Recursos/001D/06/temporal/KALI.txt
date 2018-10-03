@@ -1,0 +1,28 @@
+         RECIBO DE INGRESO
+        
+------------------------------------
+TIPO:RI  NUMERO :3            ***
+KALI  00 1 07/05/2015 12:18     
+
+PAGUE A :SAAVEDRA QUIJADA GUILLE
+POR CONCEPTO DE:               
+
+LA CANTIDAD DE :               12.00
+------------------------------------
+RI  3           S   12.00
+FORMA PAGO:                    12.00
+                   VUELTO   :   0.00
+
+        ------------------------
+                  FIRMA
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

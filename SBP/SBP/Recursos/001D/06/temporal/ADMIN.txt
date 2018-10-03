@@ -1,0 +1,31 @@
+              ÑCAFE EUROPA
+        UNLIMITED COMPANY S.A.C.
+CAL. ALONSO DE MOLINA MZB LOTE 22 SURCO
+           ÑAV. MENDIOLA 1400 
+      INDEPENDENCIA - LIMA - LIMA
+     RUC:2255416122  SN:FFBF021961
+---------------------------------------
+BOLETA ELECTRONICA:B778-911      
+CAJERO:ADMIN  CAJA:01 TURNO:1 
+FECHA EMISION:10/09/2018 11:47:17  
+SALON:01 MESA:02 MOZO:JUAN PEREZ
+NOMBRE:                         
+*** V ***      
+CANT DESCRIPCION             P.U.  TOTAL
+-----------------------------------------
+1.00 INCA COLA 1LT          10.00    10.00
+1.00 INCA COLA 1LT          10.00    10.00
+----------------------------------------
+DESCUENTO               S/   :     0.00
+OP. GRAVADAS            S/   :    16.95
+IGV                     S/   :     3.06
+TOTAL VENTA             S/   :    20.00
+PAGO CON EFECTIVO            :    20.00
+VUELTO                  S/   :     0.00
+----------------------------------------
+Representacion impresa de la BOLETA DE VENTA
+    ELECTRONICA puede ser consultada en
+    https:consulta.easyfact.tk
+         GRACIAS POR SU PREFERENCIA
+   
+	|Nombre de archivo: serieNum  

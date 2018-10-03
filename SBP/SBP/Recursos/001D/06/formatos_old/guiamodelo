@@ -1,0 +1,27 @@
+{
+ TELEFONO        :[TELEFONO,1,11,]     FECHA   :[FECHA,1,10,]   HORA_PEDIDO:[HORA,1,10,]
+ PEDIDO NRO      :[NUMERO,1,11,]
+ 
+ NOMBRE          :[NOMBRE,1,60,]  CODIGO       :[CODIGO,1,11,] RUC:[RUC,1,11,]
+ LUGAR DE ENTREGA:[CLIENTES>DIRECCION,1,60,]  TIPODOCUMENTO:[TDOCDELI,1,6,] [TIPOD>DESCRIPCIO,1,10,]
+ REFERENCIA      :[OBSERVA,1,60,]  
+------------------------------------------------------------------------------------------------------------------------
+  CANTI UND DESCRIPCIO                                                       PRECIO   TOTAL
+-------------------------------------------------------------------------------------------------------------------------
+}
+/[CANTIDAD,1,7,] [UNIDAD,1,3,] [DESCRIPCIO,1,60,]    [PRECIO,1,7,] [TOTAL,1,7,]
+[OBSERVA1,1,60,]\
+$
+-------------------------------------------------------------------------------------------------------------------------
+                        TOTAL PEDIDO:[PONEMONEDA] [TOTAL,1,11,] 
+                        FORMAPAGO   :[FPAGO>DESCRIPCIO,1,10,]
+                        PAGA CON    :[PONEMONEDA] [MONTOPAGAR,1,11,]
+        SON : [@TOTAL,1,40,]?
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 

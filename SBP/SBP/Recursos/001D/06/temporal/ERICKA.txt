@@ -1,0 +1,24 @@
+      EMPRESA EMPRESA EMPRESA
+               EMPRESA  
+    DIRECCION DIRECCION DIRECCION
+        DIRECCION DIRECCION   
+    RUC:XXXXXXXXXXX SN:XXXXXXXXXX
+           TELF.:XXX-XXXX
+---------------------------------------
+TICKET BOLETA:B01 -1804     CAJERO:ERIC
+CAJA:01 TURNO:1 18/04/2017 10:30:25
+CLIENTE:                                                                                
+*** V ***      
+CANT DESCRIPCION          P.U.    TOTAL
+---------------------------------------
+5.00 ENAHUE FALDON        10.00   50.00 
+---------------------------------------
+NETO                  S/      :   50.00
+DESCUENTO  0.0%               : 0.00
+TOTAL VENTA           S/      :   50.00
+EFECTIVO                      :   50.00
+VUELTO                        :    0.00
+---------------------------------------
+       GRACIAS POR SU PREFERENCIA
+    DOCUMENTO NO VALIDO PARA SUNAT
+       RECLAME SU COMPROBANTE

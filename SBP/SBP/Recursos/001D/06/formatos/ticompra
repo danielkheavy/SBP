@@ -1,0 +1,24 @@
+{      compra  
+    DIRECCION DIRECCION DIRECCION
+        DIRECCION DIRECCION   
+    RUC:XXXXXXXXXXX SN:XXXXXXXXXX
+           TELF.:XXX-XXXX
+---------------------------------------
+TICKET BOLETA:[SERIE,1,4,]-[NUMERO,1,8,] CAJERO:[USUARIO,1,4,]
+CAJA:[CAJA,1,2,] TURNO:[TURNO,1,1,] [FECHAE,1,10,] [HORA,1,8,]
+SALON:[SALON,1,2,] MESA:[MESA,1,2,] MOZO:[VENDEDOR>NOMBRE,1,10,]
+CLIENTE:[NOMBRE,1,80,]
+[ESTADO,1,15,]
+CANT DESCRIPCION          P.U.    TOTAL
+---------------------------------------}     
+/[CANTIDAD,1,4,] [PRODUCTO>DESCORTO,1,20,] [PRECIO,1,5,] [TOTAL,1,7,] \
+$---------------------------------------
+DESCUENTO  [DESTOPO,1,3,]%               :[DESCUENTO,1,5,]
+TOTAL VENTA           [PONEMONEDA]    :[TOTAL,1,8,]?
+FORMA DE PAGO?
+<[DESCRIPCIO,1,16,]              :[RECIBE,1,8,]
+VUELTO                        :[SALDOS,2,8,]>
+^---------------------------------------
+       GRACIAS POR SU PREFERENCIA
+    DOCUMENTO NO VALIDO PARA SUNAT
+       RECLAME SU COMPROBANTE

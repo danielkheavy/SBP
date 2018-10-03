@@ -1,0 +1,25 @@
+{
+             MINIMARKET DONNA XXX-121212                                 SU MINIMARKET DE CONFIANZA.
+
+             PEDIDOS DE ALMACEN PARA COMPRAS
+
+ NUMERO:[NUMERO,1,11,]
+ FECHA :[FECHA,1,10,]                                                    FECHA ENTREGA:[FECHAE,1,10,]
+ NOMBRE:[NOMBRE,1,60,]  LOCAL_PEDIDO:[CODIGO,1,11,]
+-------------------------------------------------------------------------------------------------------------------------
+DESCRIPCIO                                                    CODIGO         DONNA1   DONNA2   DONNA3 UND  PRECIO  TOTAL
+-------------------------------------------------------------------------------------------------------------------------
+}
+/ [DESCRIPCIO,1,60,] [PRODUCTO,1,11,]  [L1,1,8,4,] [L2,1,8,4,] [L3,1,8,4,] [UNIDAD,1,3,] [PRECIO,1,7,] [TOTAL,1,7,]\
+$
+-------------------------------------------------------------------------------------------------------------------------
+SON : [@TOTAL,1,40,]
+             TOTAL :  [TOTAL,1,11,]?
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,23 @@
+{      EMPRESA EMPRESA EMPRESA
+               EMPRESA  
+    DIRECCION DIRECCION DIRECCION
+        DIRECCION DIRECCION   
+    RUC:XXXXXXXXXXX SN:XXXXXXXXXX
+           TELF.:XXX-XXXX       
+---------------------------------------
+BOLETA: [SERIE,1,4,]-[NUMERO,1,11,]  VEN:[USUARIO,1,3,]
+CAJA:[CAJA,1,2,] TN:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+CLIENTE:[NOMBRE,1,20,]
+[ESTADO,1,15,]
+---------------------------------------
+CANT  DESCRIPCION         P.U.   TOTAL}     
+/[CANTIDAD,1,4,]  [PRODUCTO>DESCORTO,1,18,0,][PRECIO,1,7,][TOTAL,1,7,]\
+$--------------------------------------
+DESCUENTO  [DESTOPO,1,3,]%               :[DESCUENTO,1,5,] 
+NETO                          :[NETO,1,8,]
+TOTAL VENTA                   :[TOTAL,1,8,]
+FORMA DE PAGO?
+<[DESCRIPCIO,1,16,]              :[RECIBE,1,8,]
+VUELTO                        :[SALDOS,2,8,]>
+^--------------------------------------
+       GRACIAS POR SU PREFERENCIA.

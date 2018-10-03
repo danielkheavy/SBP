@@ -1,0 +1,53 @@
+DONACIANO PAUCAR INCA         
+ 
+      CUADRE PARCIAL NRO: 9-11
+          UNIDADES VENDIDAS
+-----------------------------------
+CAJERO.% CAJA.% TNO.%              
+FECHAI.08/11/2013 FECHAF.08/11/2013
+-----------------------------------
+PROD          DESC  CANT   TOTAL    
+-----------------------------------
+ABARROTES           427.43  1076.71
+ART PARA BB          28.00    50.10
+ASEO PERSONAL       177.00   355.20
+BEBIDAS             305.00   657.00
+CARNE                49.10   789.40
+*** ANULADO           0.75    11.22
+ART PARA COCINA     118.00    23.00
+CONDIMENTO           92.00    36.20
+CONFITERIA          508.50   592.10
+DESCARTABLES        137.00    35.70
+EMBUTIDOS            63.76   423.48
+ESPECIERIA          112.00   102.60
+FARMACIA             24.00     7.90
+FRUTA               397.27   495.05
+HELADERIA            19.00    47.20
+LACTEOS             218.42   701.81
+LIBRERIA             22.00    43.30
+LICORES              66.00   316.10
+ART DE LIMPIEZA     170.00   499.27
+MASCOTAS             24.50   127.15
+*** ANULADO           0.50     4.60
+MENESTRAS             4.67    33.12
+PANES               728.00   205.10
+PASAMANERIA          23.00    26.60
+POLLO               118.68   905.56
+*** ANULADO           0.40     1.60
+PREPARADOS           37.00    74.00
+PROMOCIONES         363.00     0.00
+*** ANULADO           1.00     0.00
+ART DE REGALOS       22.00    13.00
+TRJS TELEFONICA       2.00    20.00
+TABAQUERIA           58.00   214.70
+VERDURAS            649.07   675.08
+*** ANULADO           2.95     4.69
+<<Total             4964.3  8546.43
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

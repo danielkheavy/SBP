@@ -1,0 +1,45 @@
+MARKET DONNA-TORTUGAS                                                      Pagina :1      
+Usuario :EDISON                                                            Hora   :17:05:45    
+ 
+                                                                                          
+Fechai : 14/07/2014      
+Fechaf : 14/07/2014      
+------------------------------------------------------------------------------------------------------------------------------------------------------
+E Fecha      ser Numero      X M      Total T Codigo      Nombre                         Motivo                    Cajero   Caj T Hora  Cob/Ven  Local  
+------------------------------------------------------------------------------------------------------------------------------------------------------
+EN3 R/GG RENUMERACION GG           
+2 14/07/2014     12649       E S     130.00 V DONA        PAUCAR INCA DONACIANO          MULTA UPC                 VANE     00  1 14:20          01     
+                   Soles  130.00     Dolares 0.00       
+EN4 R/GT REMUNERACION GT           
+2 14/07/2014     12648       E S     100.00 V FABIO       PAUCAR INCA FABIO              MULTA UPC                 VANE     00  1 14:19          01     
+2 14/07/2014     12656       E S     120.00 V FABIO       PAUCAR INCA FABIO              PAGO ENTRADAS             VANE     00  1 14:37          01     
+2 14/07/2014     12658       E S     156.80 V FABIO       PAUCAR INCA FABIO              GASTOS CASA FABIO         VANE     00  1 14:40          01     
+                   Soles  376.80     Dolares 0.00       
+EN8 IMPUESTOS                      
+2 14/07/2014     12647       E S     120.00 V LEO         VILLANTOY BERROCAL LUZ LEONOR  RENTA MENSUAL             VANE     00  1 14:18          01     
+                   Soles  120.00     Dolares 0.00       
+EO0 M/CTDO PAGO MERCA CONTADO      
+2 14/07/2014     12645       E S    1462.55 P COCA COLA   DISTRIBUIDORA PACI S.R.LTDA.                             VANE     00  1 14:12          01     
+2 14/07/2014     12657       E S    1070.00 V DIMAGASA    DIMAGASA                       COMPRA VERDURAS           VANE     00  1 14:39          01     
+2 14/07/2014     12644       E S    1080.99 P KRAFT FOODS VIACONSUNO S.A.C                                         VANE     00  1 14:03          01     
+                   Soles  3613.54    Dolares 0.00       
+EO1 M/CRED PAGO MERCA CREDITO      
+2 14/07/2014     12685       E S     370.40 P DEL PARAISO ALIMENTOS INTEGRALES DEL PARAI                           VANE     00  1 08:23          01     
+2 14/07/2014     12642       E S     839.60 P POLL HUERT  POLLOS HUERTOS                                           VANE     00  1 14:02          01     
+                   Soles  1210.00    Dolares 0.00       
+EO2 G/COMP GASTOS DE COMPRA        
+2 14/07/2014     12653       E S       4.40 V LEO         VILLANTOY BERROCAL LUZ LEONOR  MATERIALES DE USO D1      VANE     00  1 14:34          01     
+2 14/07/2014     12646       E S      30.00 V TOÑO        TOÑO                           CHOFER DE VERDURA         VANE     00  1 14:16          01     
+2 14/07/2014     12660       E S     165.30 P UNION       LUZ ANGELICA QUEZADA MEZA                                VANE     00  1 15:20          01     
+                   Soles  199.70     Dolares 0.00       
+EO3 REMUN  DEL PERSONAL OPER       
+2 14/07/2014     12650       E S      67.50 V FABIOJR     PAUCAR VILLANTOY FABIO LEONEL  ESSALUD                   VANE     00  1 14:26          01     
+2 14/07/2014     12654       E S       9.40 V KELO        LEYVA INFANTE HENIN KELITO     HORAS EXTRAS              VANE     00  1 14:35          01     
+2 14/07/2014     12652       E S      74.25 V LEO         VILLANTOY BERROCAL LUZ LEONOR  ESSALUD                   VANE     00  1 14:28          01     
+2 14/07/2014     12651       E S      67.50 V MAGALI      QUISPE QUILLAS MAGALI          ESSALUD                   VANE     00  1 14:27          01     
+2 14/07/2014     12655       E S      18.80 V MONICA      PADILLA LOPEZ MONICA           HORAS EXTRAS              VANE     00  1 14:36          01     
+                   Soles  237.45     Dolares 0.00       
+EO4 G/VENTA GASTOS DE VENTA        
+2 14/07/2014     12659       E S       2.50 V LEO         VILLANTOY BERROCAL LUZ LEONOR  REPARACION BICICLETA      VANE     00  1 14:44          01     
+                   Soles  2.50       Dolares 0.00       
+      Total------> Soles  5889.99    Dolares 0.00       

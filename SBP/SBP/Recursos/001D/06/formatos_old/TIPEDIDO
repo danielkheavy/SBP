@@ -1,0 +1,14 @@
+{PINATERIA - JUGUETERIA - DESCARTABLES
+           TELF.:054-221218
+---------------------------------------
+PEDIDO: [SERIE,1,4,]-[NUMERO,1,11,]  VEN:[USUARIO,1,5,]
+CAJA:[CAJA,1,2,] TN:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+CLIENTE:[NOMBRE,1,20,]
+[ESTADO,1,15,]
+---------------------------------------
+CANT UND   PRODUCTO}     
+/[CANTIDAD,1,4,] [UNIDAD,1,4,]  [PRODUCTO>DESCRIPCIO,1,29,0,]\
+$--------------------------------------
+TOTAL VENTA                   :[TOTAL,1,8,]
+--------------------------------------
+         SIRVASE PAGAR EN CAJA

@@ -1,0 +1,128 @@
+
+     CIERRE DEL DIA NRO: 000024
+            HORA 11:06:29
+-----------------------------------
+CAJERO.% CAJA.01 TNO.%
+FECHAI.29/11/2017 FECHAF.29/11/2017
+-----------------------------------
+
+          RANGO DE TICKET
+===================================
+Ticket Boleta :  323     al  332   
+Ticket Factura:                    
+Nota de Venta :                    
+Boleta Manual :                    
+Factura Manual:                    
+Nota   Credito:                    
+
+     VENTAS POR USUARIO/TURNO
+===================================
+T/CAMBIO :0.000
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/               
+01 1 VICK   10         91.00        
+
+        VENTAS POR SERVICIO
+===================================
+Servc  Nro    S/       Dolares 
+SA:01       6    34.00     0.00
+Rapid       4    57.00     0.00
+
+       DOCUMENTOS VALORADOS
+===================================
+Tipo   Nro    S/       Dolares 
+TICK B     10    91.00     0.00
+Total  Ventas    91.00     0.00
+
+          RESUMEN DE VENTAS
+===================================
+Valor Bruto      91.00     0.00
+Descuentos        0.00     0.00
+Valor Venta      77.12     0.00
+IGV              13.88     0.00
+Percepcion
+Servicio 10%      0.00     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo          0.00     0.00
+Total Ventas     91.00     0.00
+
+          OTROS DOCUMENTOS
+===================================
+Tipo   Nro    S/       Dolares 
+Total  Otros      0.00     0.00
+NETO VENTAS      91.00     0.00
+
+         ORDEN DE TRABAJO
+===================================
+Nro              Total  Acuenta 
+TotalOrden        0.00     0.00
+
+         INGRESOS/EGRESOS
+===================================
+Servc  Nro    S/       Dolares 
+===================================
+TOT.EFE.CAJA      91.00    91.00
+===================================
+
+          FORMAS DE PAGO
+===================================
+Fpago  Nro    S/       Dolares 
+-----------------------------------
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/       Dolares 
+EFECTIVO     10    91.00     0.00
+Total  Fpago     91.00     0.00
+-----------------------------------
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+-----------------------------------
+FORMA DE PAGO/SALDO FINAL
+EFECTIVO           91.00     0.00
+Subtotal         91.00     0.00
+-----------------------------------
+Total            91.00    91.00
+
+
+
+* AGUA Y MANTO              
++Vendidos:      5      20.00
+
+* PIZZA HAWAIANA            
++Vendidos:      1       7.00
+
+* CAFE AMERICANO            
++Vendidos:      1       4.50
+
+* CAFE EXPRESS              
++Vendidos:      4      18.00
+
+* CAPPUCCINO                
++Vendidos:      3      18.00
+
+* CHOCOLATE CON LECHE       
++Vendidos:      2      14.00
+
+* INFUSIONES                
++Vendidos:      1       2.50
+
+* FRAPPUCCINO MOKA          
++Vendidos:      1       7.00
+
+<<<<TOTALES<<<
+
++TotVentas     18         91
+-TotAnulad      0          0
+*TotOtros:      0          0
+
+
+
+
+
+
+
+

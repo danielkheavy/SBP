@@ -1,0 +1,17 @@
+{      PLACACENTRO PUENTE PIEDRA EIRL
+AV. PUENTE PIEDRA N 149F P.J GRAMADALES
+KM 32 200 PAN. NORTE-LIMA-PUENTE PIEDRA
+           TELF.:222-9642
+---------------------------------------
+PEDIDO: [SERIE,1,4,]-[NUMERO,1,11,]  VEN:[USUARIO,1,5,]
+CAJA:[CAJA,1,2,] TN:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+CLIENTE:[NOMBRE,1,20,]
+[ESTADO,1,15,]
+---------------------------------------
+CANT UNIDAD                  TOTAL}     
+/[CANTIDAD,1,4,] [UNIDAD,1,4,]                   [TOTAL,1,7,]
+[PRODUCTO>DESCRIPCIO,1,70,0,] \
+$--------------------------------------
+TOTAL VENTA                   :[TOTAL,1,8,]
+--------------------------------------
+         SIRVASE PAGAR EN CAJA

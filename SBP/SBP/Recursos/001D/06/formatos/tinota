@@ -1,0 +1,22 @@
+{        EMPRESA EMPRES EMPRESA    
+      DIRECCION DIRECCION DIRECCION
+     RUC: 20512081887 SN: A4KG032917
+---------------------------------------
+TICKET NRO:[SERIE,1,4,]-[NUMERO,1,11,] VEN:[USUARIO,1,5,]
+CAJA:[CAJA,1,2,] TN:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+SALON:[SALON,1,2,] MESA:[MESA,1,2,] MOZO:[VENDEDOR>NOMBRE,1,10,]
+NOMBRE:[NOMBRE,1,25,]
+[ESTADO,1,15,]
+---------------------------------------
+CANT  DESCRIPCION         P.U.   TOTAL}     
+/[CANTIDAD,1,4,]  [PRODUCTO>DESCORTO,1,18,0,][PRECIO,1,7,][TOTAL,1,7,]\
+$--------------------------------------
+DESCUENTO                     :[DESCUENTO,1,8,]
+TOTAL VENTA                   :[TOTAL,1,8,]
+FORMA DE PAGO?
+<[DESCRIPCIO,1,16,]              :[RECIBE,1,8,]
+VUELTO                        :[SALDOS,1,8,]>
+^--------------------------------------
+      GRACIAS POR SU PREFERENCIA.
+   DOCUMENTO NO VALIDO PARA SUNAT
+       RECLAME SU COMPROBANTE

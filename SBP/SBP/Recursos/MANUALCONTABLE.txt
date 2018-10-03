@@ -1,0 +1,29 @@
+ Definir Cuenta de cierre y Cuenta de Capital. - 
+A fin de poder realizar el cierre deperíodo en los libros contables, 
+es necesario que defina una cuenta contable en la quese sumaria 
+los asientos de cierre para las cuentas de 'Ventas' y 'Gastos'. 
+Crear lacuenta de 'cierre' como se indica en el acápite 2.a, con la clasificación de Capital. 
+Esdecir esta cuenta debe ser una cuenta de Capital. 
+Lógicamente esta cuenta solamenteserá utilizada por MONICA al cerrar el período. 
+Al crear la cuenta Ud. puede utilizarcualquier código y descripción, pero, repetimos, debe ser Cta. de Capital. 
+En algunoscasos la cuenta de cierre también es conocida como la cuenta de "resultados delejercicio", 
+es decir en la cual se consignan las perdidas ó ganancias del periodocontable.
+
+La 'Cuenta de Capital del Propietario', (El aporte de dinero a la empresa por parte delpropietario de la empresa) 
+debe ser creada igualmente, como es lógico, como unacuenta de Capital, Ud. puede asignar el código, 
+y la descripción que desea. Ud. NOpuede ingresar varias cuentas de 'Capital del Propietario' 
+(Como se hace en losnegocios corporativos, 'Capital socio A', 'Capital socio B', etc.). 
+Si tuviera el caso devarios accionistas en la empresa, 
+definir una sola cuenta de 'Capital del propietario'(Como se hace en los pequeños y medianos negocios), 
+y luego definir cuentas de'Aportes de Capital socio A', 'Retiro de Capital socio A', 
+'Aportes de capital socio B','Retiro de capital socio B' y así sucesivamente, 
+como es lógico estas cuentas deben serclasificadas como cuentas de capital. 
+Una vez definida estas 2 cuentas, ingresar a laopción de Parámetros del menú principal y luego a la opción de Generales , 
+Luegohacer un clic en Contables, y finalmente un clic en definición de Contabilidad , 
+se lemostrará una pantalla con 2 campos, en ellos debe ingresar el código de las 2 cuentasanteriormente mencionadas. 
+Si Ud. no recuerda el código de estas cuentas tipear lapalabra 'LISTA' y se mostraran las posibles cuentas. 
+Tomar las cuentascorrespondientes de 'Capital del Propietario' (o cualquiera sea el nombre asignado 
+porla reglamentación contable: 'Capital Social,' 'Capital de la Empresa', 'Capital delpropietario', etc.). 
+De la misma manera ingresar la 'Cuenta de cierre' de período. 
+Apartir de este punto Ud. ya puede ingresar asientos contables
+ 

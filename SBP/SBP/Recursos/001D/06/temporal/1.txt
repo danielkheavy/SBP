@@ -1,0 +1,8 @@
+cabecera1
+      CUADRE PARCIAL NRO: 26-9
+      INGRESO/EGRESO X SECCION
+-----------------------------------
+CAJERO.1 CAJA.01 TNO.1
+FECHAI.26/09/2017 FECHAF.26/09/2017
+-----------------------------------
+SECC    INGRESO    EGRESO 

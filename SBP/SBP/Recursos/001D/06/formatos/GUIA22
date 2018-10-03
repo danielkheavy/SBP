@@ -1,0 +1,39 @@
+{
+
+
+
+
+
+
+
+
+                                                   [TIPO,1,2,][NUMERO,1,11,]
+
+               [FECHA,1,10,]                                 [FECHA,1,10,]
+               
+               
+
+                         [NOMBRE,1,60,] [CODIGO,1,11,]
+                              [CLIENTES>DIRECCION,1,40,]  [CLIENTES>DISTRITO,1,10,] [CLIENTES>DPTO,1,10,]
+
+                                                                              [OBSERVA,1,60,]
+
+               [VENDEDOR>NOMBRE,1,10,]       [NUMERO1,1,11,]                     [PONEMONEDA1]    [FPAGO>DESCRIPCIO,1,11,]
+
+
+                           [TRANSPOR>NOMBRE,1,35,]    
+		[partida,1,35,]                    
+               [TRANSPOR>DIRECCION,1,40,]  [TRANSPOR>DISTRITO,1,10,] [TRANSPOR>DPTO,1,10,]
+
+                      [TRANSPOR>MARCA,1,15,]         [TRANSPOR>PLACA,1,10,] 
+                      [TRANSPOR>CONTACTO,1,45,]           [TRANSPOR>LICENCIA,1,20,] 
+
+
+
+}
+/       [PRODUCTO,1,4,] [UNIDAD,1,4,] [CANTIDAD,1,7,]  [DESCRIPCIO,1,60,] [TOTAL,1,8,]
+                    [TALLASX,5,40,]\
+$
+      NRO.PRODUCTOS:[NRO_ITEMS,1,10,]
+
+

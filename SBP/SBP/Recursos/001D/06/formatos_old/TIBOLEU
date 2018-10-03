@@ -1,0 +1,23 @@
+{         CONTROL INTERNO
+------------------------------------
+TICKET NRO :[SERIE,1,3,] [NUMERO,1,11,]  SENTIDO:[SENTIDO,1,1,]
+      DETRACCION: [DENUMERO,1,15,]
+[USUARIO,1,6,] CJ:[CAJA,1,2,] TN:[TURNO,1,1,] [FECHAE,1,10,] [HORA,1,8,]
+        [ESTADO,1,15,]
+--------------------------------------
+CANTI UNI DESCRIPCIO TOTAL}     
+/[CANTIDAD,1,5,] x[DESCRIPCIO,1,20,] [TOTAL,1,8,]\
+$TOTAL VENTA                :[TOTAL,1,8,]?
+     
+    CANJEE POR BOLETA O FACTURA
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+{[TLOCAL>CABECERA,1,200,]
+SERIE TICKETERA:[.SERIE,1,15,]
+DOM.FISCAL:CALLE LOS CALDEROS Nro. 286
+URB. VULCANO ATE LIMA LIMA
+---------------------------------------
+FACTURA NRO:[SERIE,1,4,]-[NUMERO,1,7,]VEND:[USUARIO,1,3,]
+CAJA:[CAJA,1,2,] TURNO:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+RUC:[CODIGO,1,11,]
+NOMBRE:[NOMBRE,1,25,]
+DIRECCION:[CLIENTES>DIRECCION,1,25,]
+[ESTADO,1,15,]
+CANT DESCRIPCION         V.V.    TOTAL
+---------------------------------------}     
+/[CANTIDAD,1,4,] [DESCRIPCIO,1,19,] [PRECIO,1,6,] [SUBTOTAL,1,6,] \
+$---------------------------------------
+SUBTOTAL                     :[SUBTOTAL,1,8,]
+IGV 18%                      :[IMPUESTO,1,8,]
+PERCEPCION ([CLASESUNAT>PERCEPCION,1,3,])%            :[PERCEPCION,1,8,]
+SERVICIO 10%                 :[SERVICIOCO,1,8,]
+REDONDEO                     :[REDONDEO,1,8,]
+TOTAL VENTA  [PONEMONEDA]            :[TOTAL,1,8,]?
+<PAGO CON [DESCRIPCIO,1,10,]          :[RECIBE,1,8,]
+VUELTO                       :[SALDOS,1,8,]>
+^       GRACIAS POR SU COMPRA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

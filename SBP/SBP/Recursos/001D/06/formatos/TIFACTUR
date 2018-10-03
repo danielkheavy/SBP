@@ -1,0 +1,32 @@
+{            Ñ  & CAFE EUROPA
+        UNLIMITED COMPANY S.A.C.
+CAL. ALONSO DE MOLINA MZB LOTE 22 SURCO
+          Ñ AV. MENDIOLA 1400 
+      INDEPENDENCIA - LIMA - LIMA
+     RUC:2255416122  SN:FFBF021961
+---------------------------------------
+FACTURA ELECTRONICA:[SERIE,1,4,]-[NUMERO,1,9,] 
+CAJERO:[USUARIO,1,5,]CAJA:[CAJA,1,2,] TURNO:[TURNO,1,1,]
+SALON:[SALON,1,2,] MESA:[MESA,1,2,] MOZO:[VENDEDOR>NOMBRE,1,10,]
+FECHA EMISION:[FECHA,1,10,] [HORA,1,10,]
+RUC CLIENTE :[CODIGO,1,11,]
+RAZON SOCIAL:[NOMBRE,1,55,]
+DIRECCION:[CLIENTES>DIRECCION,1,55,]
+[ESTADO,1,15,]
+CANT DESCRIPCION              P.U.     TOTAL
+----------------------------------------}     
+/[CANTIDAD,1,4,] [PRODUCTO>DESCRIPCIO,1,20,] [PRECIO,1,7,4,] [TOTAL,1,8,4,]\
+$---------------------------------------
+DESCUENTO               [PONEMONEDA] : [DESCUENTO,1,8,]
+OP. GRAVADAS            [PONEMONEDA] : [SUBTOTAL,1,8,]
+IGV                     [PONEMONEDA] : [IMPUESTO,1,8,]
+TOTAL VENTA             [PONEMONEDA] : [TOTAL,1,8,4,]?
+<PAGO CON [DESCRIPCIO,1,10,]          : [RECIBE,1,8,4,]
+VUELTO                  [PONEMONEDA] : [SALDOS,1,8,4,]>
+^----------------------------------------
+Representacion impresa de la FACTURA DE VENTA
+    ELECTRONICA puede ser consultada en
+    https://consulta.easyfact.tk/
+         GRACIAS POR SU PREFERENCIA
+   
+	[CDR,1,29,] 

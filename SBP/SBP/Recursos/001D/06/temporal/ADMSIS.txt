@@ -1,0 +1,99 @@
+JAIME OLIVER S.A.C.
+              " GRIFO MARIATEGUI "
+AV. FRANCISCO MARIATEGUI 606 INTERSC.
+AV. SALAVERRY -JESUS MARIA-LIMA-LIMA.
+      CUADRE PARCIAL NRO: 12-8
+            HORA 10:13:26
+-----------------------------------
+CAJERO.% CAJA.01 TNO.1
+FECHAI.01/08/2015 FECHAF.12/08/2015
+-----------------------------------
+TB-I:132970      TB-F:134265     
+TF-I:46950       TF-F:47331      
+BM-I:            BM-F:           
+FM-I:            FM-F:           
+NC-I:            NC-F:           
+T/CAMBIO :3.170
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/.              
+01 1 T1    771       40728.5        
+SERVICIOS
+Servc  Nro    S/.      Dolares 
+Rapid     771 40728.52     0.00
+DOCUMENTOS VALORADOS
+Tipo   Nro    S/.      Dolares 
+TICK B    600 26579.07     0.00
+ANULAD      2    30.00     0.00
+TICK F    171 14149.45     0.00
+ANULAD      9   655.13     0.00
+Total  Ventas 40728.52     0.00
+RESUMEN DE VENTAS
+Valor Bruto   40728.55     0.00
+Descuentos        0.00     0.00
+Valor Venta   34515.14     0.00
+IGV            6213.44     0.00
+Percepcion
+Servicio 10%      0.00     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo         -0.03     0.00
+Total Ventas  40728.52     0.00
+-----------------------------------
+TOT.EFE.CAJA   40728.52 12848.11
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro    S/.      Dolares 
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/.      Dolares 
+EFECTI    771 40728.52     0.00
+Total  Fpago  40728.52     0.00
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+FORMA DE PAGO/SALDOS
+EFECTI        40728.52     0.00
+Subtotal      40728.52     0.00
+-----------------------------------
+Total         40728.52 12848.11
+
+
+
+
+
+
+
+
+*** UNIDADES VENDIDAS ***
+-----------------------------------
+1007  LIQUIDO FR          
++Vendidos:      2      17.00
+1014  MULTIGEL            
++Vendidos:      4      60.00
+1017  REPSOL SERIE 3 SAE 4
++Vendidos:      1      13.50
+90    EFITEC 90           
+-Anuladas:17.6954     205.09
++Vendidos:1017.54   11793.30
+95    EFITEC 95           
+-Anuladas:5.07633      70.00
++Vendidos:1112.74   15344.76
+97    EFITEC 98           
++Vendidos:685.487   10206.90
+D2    DIESELPRO+          
+-Anuladas:41.0450     410.04
++Vendidos:329.640    3293.11
+<<<<TOTALES<<<
++TotVentas3152.41   40728.57
+-TotAnulad63.8167     685.13
+*TotOtros:      0          0
+
+
+
+
+
+
+
+

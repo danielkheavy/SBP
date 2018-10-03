@@ -1,0 +1,24 @@
+{      EMPRESA EMPRESA EMPRESA
+               EMPRESA  
+    DIRECCION DIRECCION DIRECCION
+        DIRECCION DIRECCION   
+    RUC:XXXXXXXXXXX SN:XXXXXXXXXX
+           TELF.:XXX-XXXX  
+---------------------------------------
+FACTURA:[SERIE,1,3,]-[NUMERO,1,9,] CAJERO:[USUARIO,1,5,]
+CAJA:[CAJA,1,2,] TURNO:[TURNO,1,1,] [FECHA,1,10,] [HORA,1,10,]
+RUC CLIENTE :[CODIGO,1,11,]
+RAZON SOCIAL:[NOMBRE,1,55,]
+DIRECCION:[CLIENTES>DIRECCION,1,55,]
+   [ESTADO,1,15,]
+CANT DESCRIPCION            P.U.  TOTAL
+---------------------------------------}     
+/[CANTIDAD,1,4,] [PRODUCTO>DESCORTO,1,22,] [PRECIO,1,4,] [TOTAL,1,6,]\
+$---------------------------------------
+SUBTOTAL               [PONEMONEDA]  : [SUBTOTAL,1,8,]
+IGV                    [PONEMONEDA]  : [IMPUESTO,1,8,]
+TOTAL VENTA            [PONEMONEDA]  : [TOTAL,1,8,]?
+<PAGO CON [DESCRIPCIO,1,16,]    : [RECIBE,1,8,]
+VUELTO                 [PONEMONEDA]  : [SALDOS,1,8,]> 
+^---------------------------------------
+       GRACIAS POR SU PREFERENCIA

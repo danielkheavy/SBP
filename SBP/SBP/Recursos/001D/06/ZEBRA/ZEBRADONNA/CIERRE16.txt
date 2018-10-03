@@ -1,0 +1,82 @@
+DONACIANO PAUCAR INCA         
+ 
+      CUADRE PARCIAL NRO: 21-5
+            HORA 11:54:14
+-----------------------------------
+CAJERO.% CAJA.03 TNO.%             
+FECHAI.16/05/2014 FECHAF.16/05/2014
+-----------------------------------
+TB-I:31139       TB-F:31168       
+TF-I:            TF-F:            
+NCTI:            NCTF:            
+BM-I:            BM-F:            
+FM-I:            FM-F:            
+NC-I:            NC-F:            
+T/CAMBIO :2.750
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant Soles             
+03 1 FRAN   84        847.70         
+SERVICIOS
+Servc  Nro             Dolares  
+Rapid      69   554.65     0.00 
+Domic      15   293.05     0.00 
+DOCUMENTOS VALORADOS
+Tipo   Nro             Dolares  
+TICK B     30   467.50     0.00 
+Total  Ventas   467.50     0.00 
+RESUMEN DE VENTAS
+Valor Bruto     467.75     0.00 
+Descuentos        0.00     0.00 
+Valor Venta     316.40     0.00 
+Impuesto         56.65     0.00 
+Imp adicional     0.00     0.00 
+Detracc.Cobra     0.00     0.00 
+DetraccNoCobr     0.00     0.00 
+Exonerado        94.67     0.00 
+Otros Dsctos      0.00     0.00 
+Imp.Excep.        0.00     0.00 
+Total Ventas    467.50     0.00 
+OTROS DOCUMENTOS 
+Tipo   Nro             Dolares  
+TICK N     54   380.20     0.00 
+Total  Otros    380.20     0.00 
+NETO VENTAS     847.70     0.00 
+ORDEN TRABAJO 
+Nro              Total  Acuenta 
+TotalOrden        0.00     0.00 
+INGRESOS/EGRESOS
+Servc  Nro             Dolares  
+-----------------------------------
+TOT.EFE.CAJA     847.70   308.25 
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro             Dolares  
+SOLES      79   702.00     0.00 
+DOLARE      1     0.00    20.00 
+VISA        4    90.70     0.00 
+Total  Fpago    792.70    20.00 
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/SALDOS
+SOLES           702.00     0.00 
+DOLARE            0.00    20.00 
+VISA             90.70     0.00 
+Subtotal        792.70    20.00 
+-----------------------------------
+Total           847.70   308.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

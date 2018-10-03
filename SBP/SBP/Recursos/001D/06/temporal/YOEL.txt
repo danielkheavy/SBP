@@ -1,0 +1,25 @@
+      EMPRESA EMPRESA EMPRESA
+               EMPRESA  
+    DIRECCION DIRECCION DIRECCION
+        DIRECCION DIRECCION   
+    RUC:XXXXXXXXXXX SN:XXXXXXXXXX
+           TELF.:XXX-XXXX
+---------------------------------------
+TICKET BOLETA:B01 -211      CAJERO:YOEL
+CAJA:01 TURNO:1 05/06/2017 16:47:54
+CLIENTE:ENRIQUE HUAPAYA ALACHE                                                          
+*** V ***         *** COPIA ***    
+CANT DESCRIPCION          P.U.    TOTAL
+---------------------------------------
+1.00 BISAGRA INTERIOR DAN  1.25    1.25 
+1.00 BISAGRA INTERIOR DAN  1.25    1.25 
+---------------------------------------
+NETO                  S/      :    2.50
+DESCUENTO  0.0%               : 0.00
+TOTAL VENTA           S/      :    2.50
+EFECTIVO                      :    2.50
+VUELTO                        :    0.00
+---------------------------------------
+       GRACIAS POR SU PREFERENCIA
+    DOCUMENTO NO VALIDO PARA SUNAT
+       RECLAME SU COMPROBANTE

@@ -1,0 +1,26 @@
+      DE BELLEZA IMPORT S.A.C.
+ AV CESAR VALLEJO 201 LINCE LIMA LIMA
+    RUC:20600745922 SN:FFBF266164
+     NUM. AUTOR.: 0023845093258
+           TELF.:01-4915415
+---------------------------------------
+TICKET FACTURA:F01 -5        CAJERO:01  
+CAJA:01 TURNO:1 10/01/2018 18:38:10
+RUC CLIENTE :10466605188
+RAZON SOCIAL:ROÑA RAMIREZ KENYO JACK DISNEY                                                  
+DIRECCION   :CAL.MANUEL SULLON GUTIERREZ MZA. E8 LOTE. 13 A.H.  NUEVA ESPERANZA IV SECTOR  (A 4 CUADRAS DE COLEGIO JOSE OLAYA)  PIURA      - PIURA      - PIURA                                                      
+*** V ***      
+CANT DESCRIPCION          P.U.    TOTAL
+---------------------------------------
+1.00 INCA COLA 1LT         7.00    7.00
+1.00 PRODUCTO EXONERADO   100.0  100.00
+---------------------------------------
+DESCUENTO  0.0%               : 0.00
+NETO                          :  107.00
+SUBTOTAL                      :  105.93
+IVA                   18%     :    1.07
+TOTAL VENTA           S/      :  107.00
+EFECTIVO                      :  107.00
+VUELTO                        :    0.00
+---------------------------------------
+       GRACIAS POR SU PREFERENCIA

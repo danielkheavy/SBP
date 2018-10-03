@@ -1,0 +1,66 @@
+     CIERRE DEL DIA NRO: 000112
+            HORA 16:05:24
+-----------------------------------
+CAJERO.% CAJA.01 TNO.%
+FECHAI.28/10/2014 FECHAF.28/10/2014
+-----------------------------------
+TB-I:16433       TB-F:16480      
+TF-I:            TF-F:           
+NCTI:            NCTF:           
+BM-I:            BM-F:           
+FM-I:            FM-F:           
+NC-I:            NC-F:           
+T/CAMBIO :2.800
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant S/.              
+01 1 CARO   48       3576.00        
+SERVICIOS
+Servc  Nro    S/.      Dolares 
+SA:01      16  1337.00     0.00
+Rapid      31  2189.00     0.00
+SA:03       1    50.00     0.00
+DOCUMENTOS VALORADOS
+Tipo   Nro    S/.      Dolares 
+TICKET     48  3576.00     0.00
+Total  Ventas  3576.00     0.00
+RESUMEN DE VENTAS
+Valor Bruto    3576.00     0.00
+Descuentos        0.00     0.00
+Valor Venta    3030.53     0.00
+IGV             545.47     0.00
+Percepcion
+Servicio 10%      0.00     0.00
+Imp adicional     0.00     0.00
+Detracc.Cobra     0.00     0.00
+DetraccNoCobr     0.00     0.00
+Exonerado         0.00     0.00
+Otros Dsctos      0.00     0.00
+Imp.Excep.        0.00     0.00
+Redondeo          0.00     0.00
+Total Ventas   3576.00     0.00
+-----------------------------------
+TOT.EFE.CAJA    3576.00  1277.14
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro    S/.      Dolares 
+FORMA DE PAGO/VENTAS
+Fpago  Nro    S/.      Dolares 
+EFECTI     48  3576.00     0.00
+Total  Fpago   3576.00     0.00
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00
+FORMA DE PAGO/SALDOS
+EFECTI         3576.00     0.00
+Subtotal       3576.00     0.00
+-----------------------------------
+Total          3576.00  1277.14
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+DONACIANO PAUCAR INCA         
+ 
+      CUADRE PARCIAL NRO: 21-5
+            HORA 11:53:38
+-----------------------------------
+CAJERO.% CAJA.03 TNO.%             
+FECHAI.04/05/2014 FECHAF.04/05/2014
+-----------------------------------
+TB-I:30822       TB-F:30860       
+TF-I:            TF-F:            
+NCTI:            NCTF:            
+BM-I:            BM-F:            
+FM-I:            FM-F:            
+NC-I:            NC-F:            
+T/CAMBIO :2.750
+CAJA/TURNO/CAJERO
+Ca T Cajr Cant Soles             
+03 2 DENI   19        133.35         
+03 2 MAGA  167       1988.70         
+SERVICIOS
+Servc  Nro             Dolares  
+Rapid     177  1898.05     0.00 
+Domic       9   224.00     0.00 
+DOCUMENTOS VALORADOS
+Tipo   Nro             Dolares  
+TICK B     39  1075.95     0.00 
+Total  Ventas  1075.95     0.00 
+RESUMEN DE VENTAS
+Valor Bruto    1076.00     0.00 
+Descuentos        0.00     0.00 
+Valor Venta     735.67     0.00 
+Impuesto        132.40     0.00 
+Imp adicional     0.00     0.00 
+Detracc.Cobra     0.00     0.00 
+DetraccNoCobr     0.00     0.00 
+Exonerado       207.93     0.00 
+Otros Dsctos      0.00     0.00 
+Imp.Excep.        0.00     0.00 
+Total Ventas   1075.95     0.00 
+OTROS DOCUMENTOS 
+Tipo   Nro             Dolares  
+TICK N    147  1046.10     0.00 
+ANULAD      1     7.60     0.00 
+Total  Otros   1046.10     0.00 
+NETO VENTAS    2122.05     0.00 
+ORDEN TRABAJO 
+Nro              Total  Acuenta 
+TotalOrden        0.00     0.00 
+INGRESOS/EGRESOS
+Servc  Nro             Dolares  
+-----------------------------------
+TOT.EFE.CAJA    2122.05   771.65 
+-----------------------------------
+FORMA DE PAGO/INGRESOS
+Fpago  Nro             Dolares  
+SOLES     174  1736.70     0.00 
+VISA       11   331.95     0.00 
+MASTER      2    53.40     0.00 
+Total  Fpago   2122.05     0.00 
+FORMA DE PAGO/EGRESOS
+Total  Fpago      0.00     0.00 
+FORMA DE PAGO/SALDOS
+SOLES          1736.70     0.00 
+VISA            331.95     0.00 
+MASTER           53.40     0.00 
+Subtotal       2122.05     0.00 
+-----------------------------------
+Total          2122.05   771.65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
