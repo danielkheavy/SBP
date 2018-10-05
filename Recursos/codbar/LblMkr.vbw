@@ -1,0 +1,6 @@
+frmLabel = 22, 29, 724, 400, Z, 66, 87, 732, 543, C
+clsBarcode = 0, 0, 0, 0, C
+frmInfo = 0, 0, 0, 0, C, 44, 58, 710, 514, C
+frmLabelSize = 22, 29, 621, 485, , 44, 58, 710, 514, C
+frmOrientation = 88, 116, 687, 572, , 66, 87, 732, 543, C
+clsI25Barcode = 0, 0, 0, 0, C

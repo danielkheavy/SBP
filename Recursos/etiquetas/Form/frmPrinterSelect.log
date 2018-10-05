@@ -1,0 +1,4 @@
+Línea 101: la clase PrintLabels.Frame3D del control frmOptions no era una clase de control cargada.
+Línea 166: la clase PrintLabels.Frame3D del control FraChoices no era una clase de control cargada.
+Línea 324: la clase PrintLabels.Frame3D del control fraLocation no era una clase de control cargada.
+Línea 419: la clase PrintLabels.Frame3D del control fraCopies no era una clase de control cargada.
